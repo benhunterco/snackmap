@@ -216,7 +216,8 @@ export const SNACKS = [
       40.58766343976597, -105.07806533238521
     ],
     "description": "A tasty find!",
-    "image": "/img/snacks/BenFCPepper.jpg"
+    // "image": "../../../../src/public/img/snacks/BenFCPepper.jpg"
+    "image": '../../../public/img/concrete.png'
   },
   {
     "id": "21",
