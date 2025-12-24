@@ -5,6 +5,11 @@ const CopyPlugin = require('copy-webpack-plugin');
 
 const nextConfig = {
   reactStrictMode: true,
+  output: 'export',
+  images: {
+    unoptimized: true
+  },
+  basePath: '/snackmap',
   webpack: (config) => {
     config.plugins.push(
       new CopyPlugin({
