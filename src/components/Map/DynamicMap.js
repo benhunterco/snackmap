@@ -44,7 +44,7 @@ const Map = ({ className, snacks = [], ...rest }) => {
                 popupAnchor: [0, -45],
               })}
             >
-              <Popup>
+              <Popup maxWidth={'auto'}>
                 <div style={{ width: '400px' }}>
                   {/* Clickable Image */}
                   <img
