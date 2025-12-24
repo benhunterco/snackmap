@@ -1,0 +1,25 @@
+.container {
+  flex: 1;        // Fill the .mapSection height
+  display: flex;
+  max-width: none; // Ensure it's full width
+  padding: 0;      // Remove any gutter padding
+  width: 100%;
+
+  @media (max-width: 720px) {
+    padding: 0;
+  }
+
+  h2,
+  h3,
+  h4,
+  p,
+  ul {
+    &:first-child {
+      margin-top: 0;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

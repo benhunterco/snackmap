@@ -1,0 +1,12 @@
+.section {
+  padding: 0;
+  margin: 0;
+  flex: 1;        // Fill the .main height
+  display: flex;
+  flex-direction: column;
+
+  @media (min-width: 720px) {
+    padding: 0;
+    margin: 0;
+  }
+}

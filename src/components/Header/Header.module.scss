@@ -1,0 +1,62 @@
+@import "@styles/settings/_settings";
+
+.header {
+  width: 100%;
+  font-size: 1em;
+  color: white;
+  background-image: url('/img/concrete.png');
+
+  padding: 1em 0;
+  margin: 0;
+}
+
+.headerContainer {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+
+}
+
+.headerTitle {
+  font-size: 1.6em;
+  font-weight: bold;
+  margin-left: 0;
+  @media (min-width: 500px) {
+    margin: 3em;
+  }
+}
+
+.headerLogo {
+  height: 1.6em;
+}
+
+.headerLinks {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    margin: 0 0.8em;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    svg {
+      margin-right: 0.4em;
+    }
+  }
+}
