@@ -9,7 +9,6 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: '/snackmap',
   webpack: (config) => {
     config.plugins.push(
       new CopyPlugin({
