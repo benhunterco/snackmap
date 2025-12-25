@@ -132,17 +132,6 @@ export const SNACKS = [
     "image": "./img/snacks/7ad49e0a-e8d5-4060-8b80-f4d9c0e40527.jpg"
   },
   {
-    "id": "13",
-    "name": "7Dadb421 51E9 4Ac0 8C8D 15D4E34B6625 2",
-    "date": "Unknown Date",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "A tasty find!",
-    "image": "./img/snacks/7dadb421-51e9-4ac0-8c8d-15d4e34b6625-2.jpg"
-  },
-  {
     "id": "14",
     "name": "7Dadb421 51E9 4Ac0 8C8D 15D4E34B6625",
     "date": "Unknown Date",
@@ -185,17 +174,6 @@ export const SNACKS = [
     ],
     "description": "A tasty find!",
     "image": "./img/snacks/8af97581-e73f-46d1-8124-50667288428a.jpg"
-  },
-  {
-    "id": "18",
-    "name": "9Ef23Be9 Bc39 4043 9Ac2 A94C494E9C86 2",
-    "date": "Unknown Date",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "A tasty find!",
-    "image": "./img/snacks/9ef23be9-bc39-4043-9ac2-a94c494e9c86-2.jpg"
   },
   {
     "id": "19",
@@ -252,17 +230,6 @@ export const SNACKS = [
     "image": "./img/snacks/DenverCroissant.jpg"
   },
   {
-    "id": "24",
-    "name": "Denverdonuts 2",
-    "date": "Unknown Date",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "A tasty find!",
-    "image": "./img/snacks/DenverDonuts-2.jpg"
-  },
-  {
     "id": "25",
     "name": "Denverdonuts",
     "date": "Unknown Date",
@@ -285,17 +252,6 @@ export const SNACKS = [
     "image": "./img/snacks/DenverJalapeno.jpg"
   },
   {
-    "id": "27",
-    "name": "Denverlettuce 2",
-    "date": "Unknown Date",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "A tasty find!",
-    "image": "./img/snacks/DenverLettuce-2.jpg"
-  },
-  {
     "id": "28",
     "name": "Denverlettuce",
     "date": "Unknown Date",
@@ -316,17 +272,6 @@ export const SNACKS = [
     ],
     "description": "A tasty find!",
     "image": "./img/snacks/DenverMango.jpg"
-  },
-  {
-    "id": "30",
-    "name": "Denverpb 2",
-    "date": "Unknown Date",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "A tasty find!",
-    "image": "./img/snacks/DenverPB-2.jpg"
   },
   {
     "id": "31",
@@ -395,39 +340,6 @@ export const SNACKS = [
     "image": "./img/snacks/DenverTwizzlers.jpg"
   },
   {
-    "id": "37",
-    "name": "Drewbreadco 2",
-    "date": "Unknown Date",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "A tasty find!",
-    "image": "./img/snacks/DrewBreadCO-2.jpg"
-  },
-  {
-    "id": "38",
-    "name": "Drewbreadco 2",
-    "date": "Unknown Date",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "A tasty find!",
-    "image": "./img/snacks/DrewBreadCO-2.jpg"
-  },
-  {
-    "id": "39",
-    "name": "Drewbreadco",
-    "date": "Unknown Date",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "A tasty find!",
-    "image": "./img/snacks/DrewBreadCO.jpg"
-  },
-  {
     "id": "40",
     "name": "Drewbreadco",
     "date": "Unknown Date",
@@ -437,17 +349,6 @@ export const SNACKS = [
     ],
     "description": "A tasty find!",
     "image": "./img/snacks/DrewBreadCO.jpg"
-  },
-  {
-    "id": "41",
-    "name": "Drewcopond 2",
-    "date": "August 12, 2021",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "Found on August 12, 2021",
-    "image": "./img/snacks/DrewCOpond-2.jpg"
   },
   {
     "id": "42",
@@ -1305,11 +1206,10 @@ export const SNACKS = [
   },
   {
     "id": "120",
-    "name": "Nadiaminneapolis 195914",
-    "date": "Unknown Date",
+    "name": "Nadia.G",
+    "date": "2025",
     "position": [
-      -90.0,
-      0.0
+44.991824,-93.186824
     ],
     "description": "A tasty find!",
     "image": "./img/snacks/NadiaMinneapolis_195914.jpg"
@@ -1534,17 +1434,6 @@ export const SNACKS = [
     "image": "./img/snacks/raphchicagopidge.jpg"
   },
   {
-    "id": "144",
-    "name": "Raphsomewhere",
-    "date": "Unknown Date",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "A tasty find!",
-    "image": "./img/snacks/raphsomewhere.jpg"
-  },
-  {
     "id": "145",
     "name": "Raphsomewhere",
     "date": "Unknown Date",
@@ -1579,17 +1468,6 @@ export const SNACKS = [
   },
   {
     "id": "148",
-    "name": "Raphza",
-    "date": "Unknown Date",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "A tasty find!",
-    "image": "./img/snacks/raphza.jpg"
-  },
-  {
-    "id": "149",
     "name": "Raphza",
     "date": "Unknown Date",
     "position": [
