@@ -1,6 +1,14 @@
 @import "react-leaflet-cluster/dist/assets/MarkerCluster.css";
 @import "react-leaflet-cluster/dist/assets/MarkerCluster.Default.css";
 
+
+@font-face {
+  font-family: 'OldLondon';
+  src: url('../../public/fonts/OldLondon.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html,
 body {
   padding: 0;
