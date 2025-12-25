@@ -9,15 +9,18 @@ const Header = () => {
     <header className={styles.header}>
       <Container className={styles.headerContainer}>
         <p className={styles.headerTitle}>
-         
-          
+
+
           Streetsnacks
-          <Link className={styles.headerLinks} href="/">
-            SnackMap
-          </Link>
-          <Link className={styles.headerLinks} href="/gallery">
-            Gallery
-          </Link>
+          <span className={styles.headerLinks}>
+
+            <Link href="/">
+              SnackMap
+            </Link>
+            <Link href="/gallery">
+              Gallery
+            </Link>
+          </span>
         </p>
       </Container>
     </header>
