@@ -9,6 +9,7 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
+  turbopack: {},
   webpack: (config) => {
     config.plugins.push(
       new CopyPlugin({

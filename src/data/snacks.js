@@ -189,7 +189,7 @@ export const SNACKS = [
   {
     "id": "20",
     "name": "Ben.N",
-    "date": "Unknown Date",
+    "date": "December 13, 2024",
     "position": [
       40.58766343976597, -105.07806533238521
     ],
@@ -1338,7 +1338,7 @@ export const SNACKS = [
   {
     "id": "134",
     "name": "Ben.N",
-    "date": "Unknown Date",
+    "date": "May 11, 2025",
     "position": [
       39.59481116304378, -104.95973686313138
     ],

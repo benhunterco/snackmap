@@ -12,7 +12,6 @@ import styles from '@styles/Home.module.scss';
 const DEFAULT_CENTER = [38.907132, -77.036546]
 
 export default function Home() {
-  console.log(SNACKS)
   return (
     <Layout>
       <Head>
@@ -23,12 +22,7 @@ export default function Home() {
 
       <Section>
         <Container>
-          {/* <h1 className={styles.title}>
-            Next.js Leaflet Starter
-          </h1> */}
-
-          <Map className={styles.homeMap}  center={DEFAULT_CENTER} zoom={12} snacks={SNACKS}>
-
+          <Map className={styles.homeMap} center={DEFAULT_CENTER} zoom={12} snacks={SNACKS}>
           </Map>
         </Container>
       </Section>
