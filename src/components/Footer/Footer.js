@@ -6,7 +6,7 @@ const Footer = ({ ...rest }) => {
   return (
     <footer className={styles.footer} {...rest}>
       <Container className={`${styles.footerContainer} ${styles.footerLegal}`}>
-        <p>
+        <p style={{textAlign:'center'}}>
           &copy; Streetsnacks, {new Date().getFullYear()}. The flavors of the world, at your feet.
         </p>
       </Container>

@@ -330,7 +330,7 @@ export const SNACKS = [
   },
   {
     "id": "36",
-    "name": "Denvertwizzlers",
+    "name": "Drew.T",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -341,7 +341,7 @@ export const SNACKS = [
   },
   {
     "id": "40",
-    "name": "Drewbreadco",
+    "name": "Drew.T",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -352,7 +352,7 @@ export const SNACKS = [
   },
   {
     "id": "42",
-    "name": "Drewcopond",
+    "name": "Drew.T",
     "date": "August 12, 2021",
     "position": [
       -90.0,
@@ -363,7 +363,7 @@ export const SNACKS = [
   },
   {
     "id": "43",
-    "name": "Drewmealco",
+    "name": "Drew.T",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1216,7 +1216,7 @@ export const SNACKS = [
   },
   {
     "id": "122",
-    "name": "Raphdenverbagel",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1227,7 +1227,7 @@ export const SNACKS = [
   },
   {
     "id": "123",
-    "name": "Raphdenverbanana",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1238,7 +1238,7 @@ export const SNACKS = [
   },
   {
     "id": "124",
-    "name": "Raphparisbread",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1249,7 +1249,7 @@ export const SNACKS = [
   },
   {
     "id": "126",
-    "name": "Raphparispringle",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1260,7 +1260,7 @@ export const SNACKS = [
   },
   {
     "id": "127",
-    "name": "Raphparisyogurt",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1402,7 +1402,7 @@ export const SNACKS = [
   },
   {
     "id": "141",
-    "name": "Raphbridge",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1413,7 +1413,7 @@ export const SNACKS = [
   },
   {
     "id": "142",
-    "name": "Raphchicagopeanuts",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1424,7 +1424,7 @@ export const SNACKS = [
   },
   {
     "id": "143",
-    "name": "Raphchicagopidge",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1435,7 +1435,7 @@ export const SNACKS = [
   },
   {
     "id": "145",
-    "name": "Raphsomewhere",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1446,7 +1446,7 @@ export const SNACKS = [
   },
   {
     "id": "146",
-    "name": "Raphtide",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1457,7 +1457,7 @@ export const SNACKS = [
   },
   {
     "id": "147",
-    "name": "Raphtread",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1468,7 +1468,7 @@ export const SNACKS = [
   },
   {
     "id": "148",
-    "name": "Raphza",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
