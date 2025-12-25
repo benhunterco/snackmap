@@ -15,7 +15,7 @@ const Header = () => {
           <span className={styles.headerLinks}>
 
             <Link href="/">
-              SnackMap
+              Map
             </Link>
             <Link href="/gallery">
               Gallery

@@ -1270,17 +1270,6 @@ export const SNACKS = [
     "image": "./img/snacks/RaphParisYogurt.jpg"
   },
   {
-    "id": "128",
-    "name": "Sherryparisboule",
-    "date": "Unknown Date",
-    "position": [
-      -90.0,
-      0.0
-    ],
-    "description": "A tasty find!",
-    "image": "./img/snacks/SherryParisBoule.jpg"
-  },
-  {
     "id": "129",
     "name": "Sherryparisboule",
     "date": "Unknown Date",
