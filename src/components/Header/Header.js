@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import { FaGithub } from 'react-icons/fa';
 
 import Container from '@components/Container';
 
@@ -10,8 +9,14 @@ const Header = () => {
     <header className={styles.header}>
       <Container className={styles.headerContainer}>
         <p className={styles.headerTitle}>
-          <Link href="/">
-            Streetsnacks SnackMap™️
+         
+          
+          Streetsnacks
+          <Link className={styles.headerLinks} href="/">
+            SnackMap
+          </Link>
+          <Link className={styles.headerLinks} href="/gallery">
+            Gallery
           </Link>
         </p>
       </Container>

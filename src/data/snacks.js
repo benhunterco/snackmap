@@ -375,21 +375,21 @@ export const SNACKS = [
   {
     "id": "44",
     "name": "Elena.H",
-    "date": "Unknown Date",
+    "date": "2025",
     "position": [
       40.579808787455136, -104.99834058170048
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/ElenaFortCollins_9908.jpg"
   },
   {
     "id": "45",
     "name": "Elena.H",
-    "date": "Unknown Date",
+    "date": "2025",
     "position": [
       40.56668468614316, -105.0783998229052
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/ElenaLosComales_9536.jpg"
   },
   {
@@ -926,7 +926,7 @@ export const SNACKS = [
     "position": [
       40.611574866079884, -105.07381467596632
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_6428.jpg"
   },
   {

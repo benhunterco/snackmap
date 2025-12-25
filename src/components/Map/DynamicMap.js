@@ -5,8 +5,18 @@ import MarkerClusterGroup from 'react-leaflet-cluster';
 import 'leaflet/dist/leaflet.css';
 
 import styles from './Map.module.scss';
+import dayjs from 'dayjs';
 
 const { MapContainer, TileLayer, Marker, Popup } = ReactLeaflet;
+
+const getDate = (dateStr) => {
+  const dateobj = dayjs(dateStr);
+  if (dateobj.isValid()) {
+    return dateobj.year();
+  } else {
+    return 'Timeless'
+  }
+}
 
 const Map = ({ className, snacks = [], ...rest }) => {
   const [activeSnack, setActiveSnack] = useState(null); // State for modal
@@ -54,7 +64,7 @@ const Map = ({ className, snacks = [], ...rest }) => {
                     onClick={() => setActiveSnack(snack)}
                   />
                   <h3 style={{ margin: '8px 0 5px' }}>{snack.name}</h3>
-                  <p style={{ margin: 0, fontSize: '12px', color: '#666' }}>{snack.date}</p>
+                  <p style={{ margin: 0, fontSize: '12px', color: '#666' }}>{getDate(snack.date)}</p>
                   <p style={{ margin: '8px 0 0', fontSize: '14px' }}>{snack.description}</p>
                 </div>
               </Popup>
