@@ -17,7 +17,7 @@ export default function Home() {
     <Layout>
       <Head>
         <title>Streetsnacks SnackMap™️</title>
-        <meta name="description" content="Create mapping apps with Next.js Leaflet Starter" />
+        <meta name="description" content="The flavors of the world, at your feet" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
