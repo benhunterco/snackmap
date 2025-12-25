@@ -193,7 +193,7 @@ export const SNACKS = [
     "position": [
       40.58766343976597, -105.07806533238521
     ],
-    "description": "A tasty find!",
+    "description": "what is it?",
     "image": "./img/snacks/BenFCPepper.jpg"
   },
   {
@@ -916,7 +916,7 @@ export const SNACKS = [
     "position": [
       39.06723199859978, -108.56477574525286
     ],
-    "description": "A tasty find!",
+    "description": "bagel on the rocks",
     "image": "./img/snacks/IMG_4687.jpg"
   },
   {
@@ -1342,7 +1342,7 @@ export const SNACKS = [
     "position": [
       39.59481116304378, -104.95973686313138
     ],
-    "description": "A tasty find!",
+    "description": "Fuel up.",
     "image": "./img/snacks/benCentennial.jpg"
   },
   {
