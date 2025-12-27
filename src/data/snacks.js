@@ -1465,5 +1465,16 @@ export const SNACKS = [
     ],
     "description": "A tasty find!",
     "image": "./img/snacks/raphza.jpg"
-  }
+  },
+  {
+    "id": "149",
+    "name": "Elena.H",
+    "date": "December 26, 2025",
+    "position": [
+      39.762566666666665,
+      -104.98344444444444
+    ],
+    "description": null,
+    "image": "/img/snacks/IMG_0069.jpg"
+  },
 ];
