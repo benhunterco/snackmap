@@ -1475,6 +1475,17 @@ export const SNACKS = [
       -104.98344444444444
     ],
     "description": null,
-    "image": "/img/snacks/IMG_0069.jpg"
+    "image": "./img/snacks/IMG_0069.jpg"
+  },
+  {
+    "id": "42",
+    "name": "Elena.H",
+    "date": "December 26, 2025",
+    "position": [
+      39.76217222222222,
+      -104.98469444444444
+    ],
+    "description": null,
+    "image": "./img/snacks/IMG_0071.jpg"
   },
 ];

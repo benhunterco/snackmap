@@ -92,7 +92,7 @@ def main():
         if ext not in ('.jpg', '.jpeg', '.png', '.heic', '.heif'): continue
 
         jpg_filename = f"{name_only}.jpg"
-        web_path = f"/img/snacks/{jpg_filename}"
+        web_path = f"./img/snacks/{jpg_filename}"
 
         if web_path in existing_snacks:
             new_snacks.append(existing_snacks[web_path])
@@ -107,7 +107,7 @@ def main():
                 target_path = os.path.join(IMAGE_FOLDER, jpg_filename)
                 img_converted = img.convert("RGB")
                 img_converted.thumbnail((1200, 1200)) 
-                img_converted.save(target_path, "JPEG", quality=85)
+                img_converted.save(target_path, "JPEG", quality=95)
                 
                 print(f"✨ Added: {filename} (Dated: {date_taken})")
 
