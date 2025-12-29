@@ -51,7 +51,7 @@ export const SNACKS = [
   },
   {
     "id": "6",
-    "name": "5D0A4A20 5Cbc 4E54 A9Fc 5B6Fd45F9B4E",
+    "name": "Unknown",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -62,7 +62,7 @@ export const SNACKS = [
   },
   {
     "id": "7",
-    "name": "5Dd80568 87E0 4876 84D5 D7Bdf55Bd62D",
+    "name": "Unknown",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -124,7 +124,7 @@ export const SNACKS = [
   },
   {
     "id": "14",
-    "name": "7Dadb421 51E9 4Ac0 8C8D 15D4E34B6625",
+    "name": "Unknown",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1265,7 +1265,7 @@ export const SNACKS = [
   },
   {
     "id": "130",
-    "name": "Bab273Ca 2Edb 4854 A853 Fa7226Fbcc7E",
+    "name": "Unknown",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1319,7 +1319,7 @@ export const SNACKS = [
   },
   {
     "id": "136",
-    "name": "Bfbb0D33 Ec81 4563 9246 Eb1646C7E577",
+    "name": "Unknown",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1330,7 +1330,7 @@ export const SNACKS = [
   },
   {
     "id": "137",
-    "name": "Cdc82B46 89E0 46E3 Be46 B04D741C4096",
+    "name": "Unknown",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1341,7 +1341,7 @@ export const SNACKS = [
   },
   {
     "id": "138",
-    "name": "Ddee3173 5C74 4499 9985 E8Dd3375Fa9C",
+    "name": "Unknown",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1352,7 +1352,7 @@ export const SNACKS = [
   },
   {
     "id": "139",
-    "name": "F1B641C5 5Bd2 429B Ba60 0Af2E1701C15",
+    "name": "Unknown",
     "date": "Unknown Date",
     "position": [
       -90.0,
@@ -1363,7 +1363,7 @@ export const SNACKS = [
   },
   {
     "id": "140",
-    "name": "F63Bade2 E3Ed 47D8 B050 D32Ae920A6Ef",
+    "name": "Unknown",
     "date": "Unknown Date",
     "position": [
       -90.0,

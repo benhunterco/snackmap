@@ -16,6 +16,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 25px;
+  align-items: start; // Important: prevents stretching
 }
 
 .card {
@@ -23,8 +24,6 @@
   display: flex;
   flex-direction: column;
   transition: transform 0.2s ease;
-  
-  // Add ornate frame
   position: relative;
   border: 40px solid transparent;
   border-image: url('../../../public/img/frame.png') 310 round;
@@ -36,7 +35,9 @@
 
 .imageContainer {
   width: 100%;
-  height: 400px;
+  height: auto; 
+  min-height: 200px; 
+  max-height: 600px; 
   background-color: wheat;
   display: flex;
   align-items: center;
@@ -44,15 +45,16 @@
 }
 
 .image {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
+  width: 100%; // Fill container width
+  height: auto; // Maintain aspect ratio
+  display: block;
+  // Remove object-fit: contain to let image determine container size
 }
 
 .content {
   padding: 20px;
-  color: white;
-  background: rgba(0, 0, 0, 0.8); // Add dark background for readability
+  color:  rgb(231 176 38);
+  background: rgb(71, 6, 6);
 }
 
 .snackName {
