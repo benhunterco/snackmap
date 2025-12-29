@@ -7,9 +7,9 @@
 .title {
   text-align: center;
   margin: 1em 0;
-  font-family: 'Times New Roman', serif; // Your custom font
+  font-family: 'Times New Roman', serif;
   font-size: 3em;
-  color:rgb(231 176 38);
+  color: rgb(231 176 38);
 }
 
 .grid {
@@ -19,14 +19,16 @@
 }
 
 .card {
-  background: wheat;
-  border: 1px solid fuchsia;
-  border-radius: 12px;
   overflow: hidden;
   display: flex;
   flex-direction: column;
   transition: transform 0.2s ease;
-
+  
+  // Add ornate frame
+  position: relative;
+  border: 40px solid transparent;
+  border-image: url('../../../public/img/frame.png') 310 round;
+  
   &:hover {
     transform: translateY(-5px);
   }
@@ -50,6 +52,7 @@
 .content {
   padding: 20px;
   color: white;
+  background: rgba(0, 0, 0, 0.8); // Add dark background for readability
 }
 
 .snackName {
