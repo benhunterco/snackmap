@@ -117,7 +117,7 @@ def main():
                     "name": clean_name,
                     "date": date_taken or "Unknown Date", # Added the date field
                     "position": position,
-                    "description": f"Found on {date_taken}" if date_taken else "A tasty find!",
+                    "description": f"Found on {date_taken}" if date_taken else null,
                     "image": web_path
                 })
         except Exception as e:

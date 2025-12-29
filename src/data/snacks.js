@@ -1,57 +1,52 @@
 export const SNACKS = [
   {
     "id": "1",
-    "name": "02Fb0942 99E0 492D 885B 737D3D1F8Efa",
-    "date": "Unknown Date",
+    "name": "Sophia.L",
+    "date": "2022",
     "position": [
-      -90.0,
-      0.0
+      48.85302886926494, 2.3505903507686647
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/02fb0942-99e0-492d-885b-737d3d1f8efa.jpg"
   },
   {
     "id": "2",
-    "name": "0Dd0736E 964F 4Fde Ada9 336Ccb237A35",
+    "name": "Keif",
     "date": "Unknown Date",
     "position": [
-      -90.0,
-      0.0
+41.890270283093884, -87.62281699629182
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/0dd0736e-964f-4fde-ada9-336ccb237a35.jpg"
   },
   {
     "id": "3",
-    "name": "2C0A4C01 231D 437E B1Bb E99Ca50Fc949",
-    "date": "Unknown Date",
+    "name": "Parker",
+    "date": "2022",
     "position": [
-      -90.0,
-      0.0
+48.85302886926494, 2.3505903507686647
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/2c0a4c01-231d-437e-b1bb-e99ca50fc949.jpg"
   },
   {
     "id": "4",
-    "name": "2F407Cf7 6409 4734 B4C1 2B9B71F3016F",
+    "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
-      -90.0,
-      0.0
+40.934513314599734, -73.84564623947254
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/2f407cf7-6409-4734-b4c1-2b9b71f3016f.jpg"
   },
   {
     "id": "5",
-    "name": "333Ff485 D448 465A Ad03 1E8110D9653B",
+    "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
-      -90.0,
-      0.0
+48.866278, 2.352722
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/333ff485-d448-465a-ad03-1e8110d9653b.jpg"
   },
   {
@@ -62,7 +57,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/5d0a4a20-5cbc-4e54-a9fc-5b6fd45f9b4e.jpg"
   },
   {
@@ -73,62 +68,58 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/5dd80568-87e0-4876-84d5-d7bdf55bd62d.jpg"
   },
   {
     "id": "8",
-    "name": "6524E3Af 332F 4F43 Ba2D Cc29D3954Cb9",
+    "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/6524e3af-332f-4f43-ba2d-cc29d3954cb9.jpg"
   },
   {
     "id": "9",
-    "name": "66735A6D 6604 4056 894D B1Cd82D484Bd",
+    "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
-      -90.0,
-      0.0
+52.35962352895455, 4.887239047829073
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/66735a6d-6604-4056-894d-b1cd82d484bd.jpg"
   },
   {
     "id": "10",
-    "name": "6Bc2Ae05 0F4F 41C9 8Cf8 38A099238D20",
+    "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
-      -90.0,
-      0.0
+48.842444, 2.331972
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/6bc2ae05-0f4f-41c9-8cf8-38a099238d20.jpg"
   },
   {
     "id": "11",
-    "name": "79Fe04C3 F8D5 42B8 87E4 7A4F9Be4Ac13",
-    "date": "Unknown Date",
+    "name": "Keif",
+    "date": "2021",
     "position": [
-      -90.0,
-      0.0
+41.890270283093884, -87.62281699629182
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/79fe04c3-f8d5-42b8-87e4-7a4f9be4ac13.jpg"
   },
   {
     "id": "12",
-    "name": "7Ad49E0A E8D5 4060 8B80 F4D9C0E40527",
-    "date": "Unknown Date",
+    "name": "Sophia.L",
+    "date": "2022",
     "position": [
-      -90.0,
-      0.0
+48.85772578047455, 2.3394336475361563
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/7ad49e0a-e8d5-4060-8b80-f4d9c0e40527.jpg"
   },
   {
@@ -139,51 +130,48 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/7dadb421-51e9-4ac0-8c8d-15d4e34b6625.jpg"
   },
   {
     "id": "15",
-    "name": "81E1762F 0D75 4Fe6 9173 Ed56Ebcc9C68",
+    "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/81e1762f-0d75-4fe6-9173-ed56ebcc9c68.jpg"
   },
   {
     "id": "16",
-    "name": "8936A536 B46B 4Cd7 B7E7 91574B5B29Db",
+    "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
-      -90.0,
-      0.0
+48.842417, 2.331139
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/8936a536-b46b-4cd7-b7e7-91574b5b29db.jpg"
   },
   {
     "id": "17",
-    "name": "8Af97581 E73F 46D1 8124 50667288428A",
-    "date": "Unknown Date",
+    "name": "Sophia.L",
+    "date": "2020",
     "position": [
-      -90.0,
-      0.0
+41.884405823365206, -87.62581326074405
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/8af97581-e73f-46d1-8124-50667288428a.jpg"
   },
   {
     "id": "19",
-    "name": "9Ef23Be9 Bc39 4043 9Ac2 A94C494E9C86",
-    "date": "Unknown Date",
+    "name": "Sophia.L",
+    "date": "2022",
     "position": [
-      -90.0,
-      0.0
+48.86100662564358, 2.3358452535727268
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/9ef23be9-bc39-4043-9ac2-a94c494e9c86.jpg"
   },
   {
@@ -198,145 +186,145 @@ export const SNACKS = [
   },
   {
     "id": "21",
-    "name": "Denverchicken",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverChicken.jpg"
   },
   {
     "id": "22",
-    "name": "Denvercookies",
+    "name": "Raphael.A",
     "date": "June 18, 2021",
     "position": [
       39.741875,
       -104.98498611111111
     ],
-    "description": "Found on June 18, 2021",
+    "description": null,
     "image": "./img/snacks/DenverCookies.jpg"
   },
   {
     "id": "23",
-    "name": "Denvercroissant",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverCroissant.jpg"
   },
   {
     "id": "25",
-    "name": "Denverdonuts",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverDonuts.jpg"
   },
   {
     "id": "26",
-    "name": "Denverjalapeno",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverJalapeno.jpg"
   },
   {
     "id": "28",
-    "name": "Denverlettuce",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverLettuce.jpg"
   },
   {
     "id": "29",
-    "name": "Denvermango",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverMango.jpg"
   },
   {
     "id": "31",
-    "name": "Denverpb",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverPB.jpg"
   },
   {
     "id": "32",
-    "name": "Denverpeels",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverPeels.jpg"
   },
   {
     "id": "33",
-    "name": "Denverpizza",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverPizza.jpg"
   },
   {
     "id": "34",
-    "name": "Denverpringles",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverPringles.jpg"
   },
   {
     "id": "35",
-    "name": "Denvershrimp",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverShrimp.jpg"
   },
   {
     "id": "36",
-    "name": "Drew.T",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DenverTwizzlers.jpg"
   },
   {
@@ -347,7 +335,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DrewBreadCO.jpg"
   },
   {
@@ -358,7 +346,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "Found on August 12, 2021",
+    "description": null,
     "image": "./img/snacks/DrewCOpond.jpg"
   },
   {
@@ -369,7 +357,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/DrewMealCO.jpg"
   },
   {
@@ -400,7 +388,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_0021.jpg"
   },
   {
@@ -460,13 +448,13 @@ export const SNACKS = [
   },
   {
     "id": "52",
-    "name": "Img 0193",
-    "date": "Unknown Date",
+    "name": "Drew.T",
+    "date": "2024",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_0193.jpg"
   },
   {
@@ -482,13 +470,12 @@ export const SNACKS = [
   },
   {
     "id": "54",
-    "name": "Img 0275",
+    "name": "Kara.L",
     "date": "Unknown Date",
     "position": [
-      -90.0,
-      0.0
+40.01858869509452, -105.27814388665604
     ],
-    "description": "A tasty find!",
+    "description": 'where is it actually',
     "image": "./img/snacks/IMG_0275.jpg"
   },
   {
@@ -763,7 +750,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1294.jpg"
   },
   {
@@ -774,7 +761,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1295.jpg"
   },
   {
@@ -785,7 +772,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1296.jpg"
   },
   {
@@ -796,7 +783,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1297.jpg"
   },
   {
@@ -807,7 +794,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1298.jpg"
   },
   {
@@ -818,7 +805,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1299.jpg"
   },
   {
@@ -829,7 +816,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1300.jpg"
   },
   {
@@ -840,7 +827,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1301.jpg"
   },
   {
@@ -851,7 +838,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1302.jpg"
   },
   {
@@ -862,7 +849,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1303.jpg"
   },
   {
@@ -873,7 +860,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1304.jpg"
   },
   {
@@ -884,7 +871,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1305.jpg"
   },
   {
@@ -895,7 +882,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1306.jpg"
   },
   {
@@ -906,7 +893,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_1838.jpg"
   },
   {
@@ -937,7 +924,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_7959.jpg"
   },
   {
@@ -948,7 +935,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_8008.jpg"
   },
   {
@@ -959,7 +946,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_8074.jpg"
   },
   {
@@ -970,29 +957,27 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_8107.jpg"
   },
   {
     "id": "99",
-    "name": "Img 8119",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
-      -90.0,
-      0.0
+48.86252107322317, 2.346001336561144
     ],
-    "description": "A tasty find!",
+    "description":null,
     "image": "./img/snacks/IMG_8119.jpg"
   },
   {
     "id": "100",
-    "name": "Img 8122",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
-      -90.0,
-      0.0
+     48.876083, 2.294667
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_8122.jpg"
   },
   {
@@ -1003,7 +988,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/IMG_8452.jpg"
   },
   {
@@ -1206,12 +1191,12 @@ export const SNACKS = [
   },
   {
     "id": "120",
-    "name": "Nadia.G",
+    "name": "Nandin.G",
     "date": "2025",
     "position": [
-44.991824,-93.186824
+      44.991824, -93.186824
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/NadiaMinneapolis_195914.jpg"
   },
   {
@@ -1222,7 +1207,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/RaphDenverBagel.jpg"
   },
   {
@@ -1233,7 +1218,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/RaphDenverBanana.jpg"
   },
   {
@@ -1244,7 +1229,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/RaphParisBread.jpg"
   },
   {
@@ -1252,10 +1237,9 @@ export const SNACKS = [
     "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
-      -90.0,
-      0.0
+48.874583, 2.295306
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/RaphParisPringle.jpg"
   },
   {
@@ -1266,18 +1250,18 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/RaphParisYogurt.jpg"
   },
   {
     "id": "129",
-    "name": "Sherryparisboule",
+    "name": "Sherry.S",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/SherryParisBoule.jpg"
   },
   {
@@ -1288,18 +1272,18 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/bab273ca-2edb-4854-a853-fa7226fbcc7e.jpg"
   },
   {
     "id": "131",
-    "name": "Bc3C8Cc8 C8Bf 49A5 B7Bb B3B9B7310216",
+    "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/bc3c8cc8-c8bf-49a5-b7bb-b3b9b7310216.jpg"
   },
   {
@@ -1310,18 +1294,18 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/bd984045-8de1-401f-976a-2e412fe37416.jpg"
   },
   {
     "id": "133",
-    "name": "Bea58983 F311 47D3 9A6C 9E453D0B954E",
+    "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/bea58983-f311-47d3-9a6c-9e453d0b954e.jpg"
   },
   {
@@ -1342,7 +1326,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/bfbb0d33-ec81-4563-9246-eb1646c7e577.jpg"
   },
   {
@@ -1353,7 +1337,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/cdc82b46-89e0-46e3-be46-b04d741c4096.jpg"
   },
   {
@@ -1364,7 +1348,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/ddee3173-5c74-4499-9985-e8dd3375fa9c.jpg"
   },
   {
@@ -1375,7 +1359,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/f1b641c5-5bd2-429b-ba60-0af2e1701c15.jpg"
   },
   {
@@ -1386,7 +1370,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/f63bade2-e3ed-47d8-b050-d32ae920a6ef.jpg"
   },
   {
@@ -1397,7 +1381,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/raphbridge.jpg"
   },
   {
@@ -1408,7 +1392,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/raphchicagopeanuts.jpg"
   },
   {
@@ -1419,7 +1403,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/raphchicagopidge.jpg"
   },
   {
@@ -1430,7 +1414,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/raphsomewhere.jpg"
   },
   {
@@ -1441,7 +1425,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/raphtide.jpg"
   },
   {
@@ -1452,7 +1436,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/raphtread.jpg"
   },
   {
@@ -1463,7 +1447,7 @@ export const SNACKS = [
       -90.0,
       0.0
     ],
-    "description": "A tasty find!",
+    "description": null,
     "image": "./img/snacks/raphza.jpg"
   },
   {
