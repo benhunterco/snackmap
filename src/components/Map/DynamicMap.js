@@ -35,7 +35,7 @@ const Map = ({ className, snacks = [], ...rest }) => {
 
   return (
     <div className={styles.mapWrapper}>
-      <MapContainer className={mapClassName} {...rest}>
+      <MapContainer className={mapClassName} {...rest} tap={false}>
         <TileLayer
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           attribution="&copy; OpenStreetMap contributors"
@@ -55,7 +55,7 @@ const Map = ({ className, snacks = [], ...rest }) => {
               })}
             >
               <Popup maxWidth={'auto'}>
-                <div style={{ width: '325px' }}>
+                <div style={{ width: '70dvw', maxWidth:'325px', maxHeight: '65dvh'}}>
                   {/* Clickable Image */}
                   <img
                     src={snack.image}
