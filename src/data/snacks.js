@@ -14,7 +14,7 @@ export const SNACKS = [
     "name": "Keif",
     "date": "Unknown Date",
     "position": [
-41.890270283093884, -87.62281699629182
+      41.890270283093884, -87.62281699629182
     ],
     "description": null,
     "image": "./img/snacks/0dd0736e-964f-4fde-ada9-336ccb237a35.jpg"
@@ -24,7 +24,7 @@ export const SNACKS = [
     "name": "Parker",
     "date": "2022",
     "position": [
-48.85302886926494, 2.3505903507686647
+      48.85302886926494, 2.3505903507686647
     ],
     "description": null,
     "image": "./img/snacks/2c0a4c01-231d-437e-b1bb-e99ca50fc949.jpg"
@@ -34,7 +34,7 @@ export const SNACKS = [
     "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
-40.934513314599734, -73.84564623947254
+      40.934513314599734, -73.84564623947254
     ],
     "description": null,
     "image": "./img/snacks/2f407cf7-6409-4734-b4c1-2b9b71f3016f.jpg"
@@ -44,7 +44,7 @@ export const SNACKS = [
     "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
-48.866278, 2.352722
+      48.866278, 2.352722
     ],
     "description": null,
     "image": "./img/snacks/333ff485-d448-465a-ad03-1e8110d9653b.jpg"
@@ -87,7 +87,7 @@ export const SNACKS = [
     "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
-52.35962352895455, 4.887239047829073
+      52.35962352895455, 4.887239047829073
     ],
     "description": null,
     "image": "./img/snacks/66735a6d-6604-4056-894d-b1cd82d484bd.jpg"
@@ -97,7 +97,7 @@ export const SNACKS = [
     "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
-48.842444, 2.331972
+      48.842444, 2.331972
     ],
     "description": null,
     "image": "./img/snacks/6bc2ae05-0f4f-41c9-8cf8-38a099238d20.jpg"
@@ -107,7 +107,7 @@ export const SNACKS = [
     "name": "Keif",
     "date": "2021",
     "position": [
-41.890270283093884, -87.62281699629182
+      41.890270283093884, -87.62281699629182
     ],
     "description": null,
     "image": "./img/snacks/79fe04c3-f8d5-42b8-87e4-7a4f9be4ac13.jpg"
@@ -117,7 +117,7 @@ export const SNACKS = [
     "name": "Sophia.L",
     "date": "2022",
     "position": [
-48.85772578047455, 2.3394336475361563
+      48.85772578047455, 2.3394336475361563
     ],
     "description": null,
     "image": "./img/snacks/7ad49e0a-e8d5-4060-8b80-f4d9c0e40527.jpg"
@@ -149,7 +149,7 @@ export const SNACKS = [
     "name": "Sophia.L",
     "date": "Unknown Date",
     "position": [
-48.842417, 2.331139
+      48.842417, 2.331139
     ],
     "description": null,
     "image": "./img/snacks/8936a536-b46b-4cd7-b7e7-91574b5b29db.jpg"
@@ -159,7 +159,7 @@ export const SNACKS = [
     "name": "Sophia.L",
     "date": "2020",
     "position": [
-41.884405823365206, -87.62581326074405
+      41.884405823365206, -87.62581326074405
     ],
     "description": null,
     "image": "./img/snacks/8af97581-e73f-46d1-8124-50667288428a.jpg"
@@ -169,7 +169,7 @@ export const SNACKS = [
     "name": "Sophia.L",
     "date": "2022",
     "position": [
-48.86100662564358, 2.3358452535727268
+      48.86100662564358, 2.3358452535727268
     ],
     "description": null,
     "image": "./img/snacks/9ef23be9-bc39-4043-9ac2-a94c494e9c86.jpg"
@@ -332,8 +332,7 @@ export const SNACKS = [
     "name": "Drew.T",
     "date": "Unknown Date",
     "position": [
-      -90.0,
-      0.0
+      39.9930816, -105.2453813
     ],
     "description": null,
     "image": "./img/snacks/DrewBreadCO.jpg"
@@ -473,7 +472,7 @@ export const SNACKS = [
     "name": "Kara.L",
     "date": "Unknown Date",
     "position": [
-40.01858869509452, -105.27814388665604
+      40.01858869509452, -105.27814388665604
     ],
     "description": 'where is it actually',
     "image": "./img/snacks/IMG_0275.jpg"
@@ -965,9 +964,9 @@ export const SNACKS = [
     "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
-48.86252107322317, 2.346001336561144
+      48.86252107322317, 2.346001336561144
     ],
-    "description":null,
+    "description": null,
     "image": "./img/snacks/IMG_8119.jpg"
   },
   {
@@ -975,7 +974,7 @@ export const SNACKS = [
     "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
-     48.876083, 2.294667
+      48.876083, 2.294667
     ],
     "description": null,
     "image": "./img/snacks/IMG_8122.jpg"
@@ -1237,7 +1236,7 @@ export const SNACKS = [
     "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
-48.874583, 2.295306
+      48.874583, 2.295306
     ],
     "description": null,
     "image": "./img/snacks/RaphParisPringle.jpg"
