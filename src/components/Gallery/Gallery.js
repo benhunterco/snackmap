@@ -28,9 +28,9 @@ const Gallery = ({ snacks }) => {
           return (
             <div 
               key={snack.id} 
-              className={`${styles.card} ${isWide ? styles.cardWide : ''} ${isTall ? styles.cardTall : ''}`}
+              // className={`${styles.card} ${isWide ? styles.cardWide : ''} ${isTall ? styles.cardTall : ''}`}
             >
-              <div className={styles.imageContainer}>
+              <div className={`${styles.card} ${isWide ? styles.cardWide : ''} ${isTall ? styles.cardTall : ''}`}>
                 <img 
                   src={'../' + snack.image} 
                   alt={snack.name} 

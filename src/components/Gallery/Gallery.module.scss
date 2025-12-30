@@ -53,8 +53,14 @@
 
 .content {
   padding: 20px;
-  color:  rgb(231 176 38);
-  background: rgb(71, 6, 6);
+  color: rgb(0, 0, 0);
+  background-image: url('../../../public/img/badge2.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  width: fit-content; // Shrink to content width
+  margin: 0 auto; // Center horizontally
 }
 
 .snackName {
@@ -63,7 +69,7 @@
 }
 
 .date {
-  color: #aaa;
+  color: rgb(27, 27, 27);
   font-size: 0.85em;
   margin: 0;
 }
@@ -72,5 +78,5 @@
   margin-top: 10px;
   font-size: 0.95em;
   line-height: 1.4;
-  color: #ddd;
+  color: rgb(27, 27, 27);
 }
