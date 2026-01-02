@@ -1,4 +1,4 @@
-export const SNACKS = [
+export const getSnacks = (hdrSupport = false) => [
   {
     "id": "1",
     "name": "Sophia.L",
@@ -1470,5 +1470,55 @@ export const SNACKS = [
     ],
     "description": null,
     "image": "./img/snacks/IMG_0071.jpg"
+  },
+  {
+    "id": "150",
+    "name": "Des.B",
+    "date": "July 6, 2024",
+    "position": [
+      43.860071, 18.432041
+    ],
+    'description': null,
+    "image": "./img/snacks/20240706_085517.jpg"
+  },
+  {
+    "id": "151",
+    "name": "Des.B",
+    "date": "November 15, 2025",
+    "position": [
+      39.767974, -105.046734
+    ],
+    'description': null,
+    "image": "./img/snacks/20251115_135112.jpg"
+  },
+  {
+    "id": "152",
+    "name": "Nandin.G",
+    "date": "October 12, 2025",
+    "position": [
+      45.057042, -92.804252
+    ],
+    'description': null,
+    "image": "./img/snacks/20251012_151225.jpg"
+  },
+  {
+    "id": "153",
+    "name": "Drew.T",
+    "date": "January 2, 2026",
+    "position": [
+      38.92618, -104.79492
+    ],
+    'description': null,
+    "image": "./img/snacks/IMG_0760.jpg"
+  },
+  {
+    "id": "154",
+    "name": "Elena.H",
+    "date": "January 1, 2026",
+    "position": [
+      39.36273, -106.28594
+    ],
+    'description': null,
+    "image": `./img/snacks/IMG_0162.${hdrSupport? "png": "jpg"}`
   },
 ];

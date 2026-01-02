@@ -1,8 +1,12 @@
 import styles from './Gallery.module.scss';
 import { useState, useEffect } from 'react';
+import { getSnacks } from '@data/snacks'
+
 
 const Gallery = ({ snacks }) => {
   const [imageDimensions, setImageDimensions] = useState({});
+  const [hdrSupport, setHdrSupport] = useState(false);
+
 
   const handleImageLoad = (e, snackId) => {
     const img = e.target;
@@ -14,6 +18,11 @@ const Gallery = ({ snacks }) => {
     }));
   };
 
+  useEffect(() => {
+    setHdrSupport(window.matchMedia('(dynamic-range: high)').matches)
+  })
+
+  snacks = getSnacks(hdrSupport)
   if (!snacks) return null;
 
   return (

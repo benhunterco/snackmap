@@ -3,7 +3,6 @@ import Head from 'next/head';
 import Layout from '@components/Layout';
 import Section from '@components/Section';
 import Container from '@components/Container';
-import { SNACKS } from '@data/snacks'
 import Map from '@components/Map'
 import styles from '@styles/Home.module.scss';
 
@@ -21,7 +20,7 @@ export default function Home() {
 
       <Section>
         <Container>
-          <Map className={styles.homeMap} center={DEFAULT_CENTER} zoom={12} snacks={SNACKS}>
+          <Map className={styles.homeMap} center={DEFAULT_CENTER} zoom={12}>
           </Map>
         </Container>
       </Section>
