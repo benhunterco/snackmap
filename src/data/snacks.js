@@ -496,7 +496,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.78715,
       -105.02568055555555
     ],
-    "description":null,
+    "description": null,
     "image": "./img/snacks/IMG_0430.jpg"
   },
   {
@@ -1519,6 +1519,52 @@ export const getSnacks = (hdrSupport = false) => [
       39.36273, -106.28594
     ],
     'description': null,
-    "image": `./img/snacks/IMG_0162.${hdrSupport? "png": "jpg"}`
+    "image": `./img/snacks/IMG_0162.${hdrSupport ? "png" : "jpg"}`
   },
+  {
+    "name": "Josh.B",
+    "date": "January 02, 2026",
+    "position": [
+      44.8738827, -93.2238506
+    ],
+    "description": null,
+    "image": "./img/snacks/IMG_7570.jpg"
+  },
+  {
+    "name": "Drew.T",
+    "date": "January 02, 2026",
+    "position": [
+      39.76978, -105.06223
+    ],
+    "description": null,
+    "image": "./img/snacks/image4.jpg"
+  },
+  {
+    "name": "Drew.T",
+    "date": "January 02, 2026",
+    "position": [
+      28.22512, -82.64919
+    ],
+    "description": null,
+    "image": "./img/snacks/image1.jpg"
+  },
+  {
+    "name": "Drew.T",
+    "date": "January 02, 2026",
+    "position": [
+      39.76775, -105.04738
+    ],
+    "description": 'The body of Christ',
+    "image": "./img/snacks/image0.jpg"
+  },
+  {
+    "name": "Drew.T",
+    "date": "January 02, 2026",
+    "position": [
+      39.76978, -105.06223
+    ],
+    "description": null,
+    "image": "./img/snacks/image2.jpg"
+  }
+
 ];
