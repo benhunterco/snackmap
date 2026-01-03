@@ -398,7 +398,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.72570555555556,
       -104.95261388888889
     ],
-    "description": "Found on July 20, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0051.jpg"
   },
   {
@@ -409,7 +409,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.72535,
       -104.98735
     ],
-    "description": "Found on July 30, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0084.jpg"
   },
   {
@@ -420,7 +420,7 @@ export const getSnacks = (hdrSupport = false) => [
       37.879875,
       -122.29645555555555
     ],
-    "description": "Found on August 09, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0117.jpg"
   },
   {
@@ -431,7 +431,7 @@ export const getSnacks = (hdrSupport = false) => [
       37.87833055555556,
       -122.30111666666666
     ],
-    "description": "Found on August 09, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0118.jpg"
   },
   {
@@ -442,7 +442,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.73231944444445,
       -104.95459722222222
     ],
-    "description": "Found on August 18, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0151.jpg"
   },
   {
@@ -464,7 +464,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.730358333333335,
       -104.974075
     ],
-    "description": "Found on September 02, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0206.jpg"
   },
   {
@@ -485,7 +485,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.73534444444444,
       -104.97876666666667
     ],
-    "description": "Found on October 01, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0304.jpg"
   },
   {
@@ -496,7 +496,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.78715,
       -105.02568055555555
     ],
-    "description": "Found on November 02, 2023",
+    "description":null,
     "image": "./img/snacks/IMG_0430.jpg"
   },
   {
@@ -507,7 +507,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.77098055555555,
       -105.08005555555555
     ],
-    "description": "Found on November 05, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0438.jpg"
   },
   {
@@ -518,7 +518,7 @@ export const getSnacks = (hdrSupport = false) => [
       36.148602777777775,
       -95.97548611111111
     ],
-    "description": "Found on November 17, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0467.jpg"
   },
   {
@@ -529,7 +529,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.00475,
       -105.2698361111111
     ],
-    "description": "Found on November 20, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0469.jpg"
   },
   {
@@ -540,7 +540,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.007419444444444,
       -105.27471111111112
     ],
-    "description": "Found on December 11, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0526.jpg"
   },
   {
@@ -551,7 +551,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.007197222222224,
       -105.27526944444445
     ],
-    "description": "Found on December 11, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_0527.jpg"
   },
   {
@@ -562,7 +562,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.73661666666667,
       -104.97990555555556
     ],
-    "description": "Found on January 28, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_0612.jpg"
   },
   {
@@ -573,7 +573,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.00291388888889,
       -105.26783055555555
     ],
-    "description": "Found on February 14, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_0625.jpg"
   },
   {
@@ -584,7 +584,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.00036111111111,
       -105.26869166666667
     ],
-    "description": "Found on March 11, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_0663.jpg"
   },
   {
@@ -595,7 +595,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.004333333333335,
       -105.27106388888889
     ],
-    "description": "Found on April 30, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_0779.jpg"
   },
   {
@@ -606,7 +606,7 @@ export const getSnacks = (hdrSupport = false) => [
       50.84943055555556,
       5.6948944444444445
     ],
-    "description": "Found on June 22, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_0958.jpg"
   },
   {
@@ -617,7 +617,7 @@ export const getSnacks = (hdrSupport = false) => [
       50.71302777777778,
       13.968891666666666
     ],
-    "description": "Found on June 28, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1022.jpg"
   },
   {
@@ -628,7 +628,7 @@ export const getSnacks = (hdrSupport = false) => [
       50.06763333333333,
       14.406783333333333
     ],
-    "description": "Found on June 28, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1024.jpg"
   },
   {
@@ -639,7 +639,7 @@ export const getSnacks = (hdrSupport = false) => [
       47.49817222222222,
       19.069175
     ],
-    "description": "Found on July 02, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1066.jpg"
   },
   {
@@ -650,7 +650,7 @@ export const getSnacks = (hdrSupport = false) => [
       50.72034722222222,
       12.495247222222222
     ],
-    "description": "Found on July 03, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1067.jpg"
   },
   {
@@ -661,7 +661,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.740186111111115,
       -104.96984166666667
     ],
-    "description": "Found on July 07, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1100.jpg"
   },
   {
@@ -672,7 +672,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.753505555555556,
       -104.99005
     ],
-    "description": "Found on July 13, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1117.jpg"
   },
   {
@@ -683,7 +683,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.75338611111111,
       -104.99057777777777
     ],
-    "description": "Found on July 13, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1118.jpg"
   },
   {
@@ -694,7 +694,7 @@ export const getSnacks = (hdrSupport = false) => [
       37.78333611111111,
       -122.46334166666666
     ],
-    "description": "Found on August 04, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1186.jpg"
   },
   {
@@ -705,7 +705,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.73963055555556,
       -104.97880555555555
     ],
-    "description": "Found on August 08, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1195.jpg"
   },
   {
@@ -716,7 +716,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.00366666666667,
       -105.26854722222222
     ],
-    "description": "Found on August 13, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1199.jpg"
   },
   {
@@ -727,7 +727,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.75286944444444,
       -105.0001
     ],
-    "description": "Found on August 26, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1225.jpg"
   },
   {
@@ -738,7 +738,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.72557777777778,
       -104.96253888888889
     ],
-    "description": "Found on September 08, 2024",
+    "description": null,
     "image": "./img/snacks/IMG_1256.jpg"
   },
   {
@@ -998,7 +998,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.88067222222222,
       2.2931916666666665
     ],
-    "description": "Found on June 21, 2022",
+    "description": null,
     "image": "./img/snacks/IMG_8565.jpg"
   },
   {
@@ -1009,7 +1009,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.84245277777778,
       2.335288888888889
     ],
-    "description": "Found on June 28, 2022",
+    "description": null,
     "image": "./img/snacks/IMG_8616.jpg"
   },
   {
@@ -1020,7 +1020,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.72690277777778,
       -104.95765
     ],
-    "description": "Found on August 10, 2022",
+    "description": null,
     "image": "./img/snacks/IMG_8893.jpg"
   },
   {
@@ -1031,7 +1031,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.72733055555556,
       -104.9804
     ],
-    "description": "Found on August 11, 2022",
+    "description": null,
     "image": "./img/snacks/IMG_8903.jpg"
   },
   {
@@ -1042,7 +1042,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.726108333333336,
       -104.95775555555556
     ],
-    "description": "Found on September 15, 2022",
+    "description": null,
     "image": "./img/snacks/IMG_9103.jpg"
   },
   {
@@ -1053,7 +1053,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.72549444444444,
       -104.956925
     ],
-    "description": "Found on September 18, 2022",
+    "description": null,
     "image": "./img/snacks/IMG_9112.jpg"
   },
   {
@@ -1064,7 +1064,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.99811666666667,
       -105.23386388888889
     ],
-    "description": "Found on November 06, 2022",
+    "description": null,
     "image": "./img/snacks/IMG_9212.jpg"
   },
   {
@@ -1075,7 +1075,7 @@ export const getSnacks = (hdrSupport = false) => [
       38.89852777777778,
       -77.03934444444444
     ],
-    "description": "Found on January 06, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_9395.jpg"
   },
   {
@@ -1086,7 +1086,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.72695277777778,
       -104.97284722222223
     ],
-    "description": "Found on March 26, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_9625.jpg"
   },
   {
@@ -1097,7 +1097,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.72430555555556,
       -104.98154444444445
     ],
-    "description": "Found on April 29, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_9745.jpg"
   },
   {
@@ -1108,7 +1108,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.72564722222222,
       -104.98824444444445
     ],
-    "description": "Found on April 29, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_9746.jpg"
   },
   {
@@ -1119,7 +1119,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.00728333333333,
       -105.27517777777777
     ],
-    "description": "Found on May 02, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_9758.jpg"
   },
   {
@@ -1130,7 +1130,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.80815833333333,
       -73.96309722222223
     ],
-    "description": "Found on May 14, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_9790.jpg"
   },
   {
@@ -1141,7 +1141,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.76278055555556,
       -73.98908888888889
     ],
-    "description": "Found on May 16, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_9809.jpg"
   },
   {
@@ -1152,7 +1152,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.943797222222216,
       -75.16669444444445
     ],
-    "description": "Found on May 20, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_9814.jpg"
   },
   {
@@ -1163,7 +1163,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.949038888888886,
       -75.1614
     ],
-    "description": "Found on May 20, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_9815.jpg"
   },
   {
@@ -1174,7 +1174,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.725608333333334,
       -104.96054166666667
     ],
-    "description": "Found on June 09, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_9877.jpg"
   },
   {
@@ -1185,7 +1185,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.718783333333334,
       -104.98619722222222
     ],
-    "description": "Found on June 24, 2023",
+    "description": null,
     "image": "./img/snacks/IMG_9923.jpg"
   },
   {
