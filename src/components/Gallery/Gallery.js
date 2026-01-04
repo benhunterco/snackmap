@@ -1,7 +1,17 @@
 import styles from './Gallery.module.scss';
 import { useState, useEffect } from 'react';
 import { getSnacks } from '@data/snacks'
+import dayjs from 'dayjs';
 
+
+const getDate = (dateStr) => {
+  const dateobj = dayjs(dateStr);
+  if (dateobj.isValid()) {
+    return dateobj.year();
+  } else {
+    return 'Timeless'
+  }
+} 
 
 const Gallery = ({ snacks }) => {
   const [imageDimensions, setImageDimensions] = useState({});
@@ -49,7 +59,7 @@ const Gallery = ({ snacks }) => {
               </div>
               <div className={styles.content}>
                 <h2 className={styles.snackName}>{snack.name}</h2>
-                <p className={styles.date}>{snack.date}</p>
+                <p className={styles.date}>{getDate(snack.date)}</p>
                 {snack.description && (
                   <p className={styles.description}>{snack.description}</p>
                 )}

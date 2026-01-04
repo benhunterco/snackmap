@@ -7,7 +7,7 @@ import Map from '@components/Map'
 import styles from '@styles/Home.module.scss';
 
 
-const DEFAULT_CENTER = [38.907132, -77.036546]
+const DEFAULT_CENTER = [40, -90]
 
 export default function Home() {
   return (
@@ -20,7 +20,8 @@ export default function Home() {
 
       <Section>
         <Container>
-          <Map className={styles.homeMap} center={DEFAULT_CENTER} zoom={12}>
+          {/* center={DEFAULT_CENTER} */}
+          <Map className={styles.homeMap}>
           </Map>
         </Container>
       </Section>

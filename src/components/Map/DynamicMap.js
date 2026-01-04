@@ -1,13 +1,13 @@
-import { useEffect, useState } from 'react'; // Added useState
+import { useEffect, useState } from 'react';
 import L from 'leaflet';
 import * as ReactLeaflet from 'react-leaflet';
 import MarkerClusterGroup from 'react-leaflet-cluster';
 import 'leaflet/dist/leaflet.css';
-
 import styles from './Map.module.scss';
 import dayjs from 'dayjs';
+import { useMapContext } from '@context/MapContext'; // Import the context
 
-const { MapContainer, TileLayer, Marker, Popup } = ReactLeaflet;
+const { MapContainer, TileLayer, Marker, Popup, useMapEvents } = ReactLeaflet;
 
 const getDate = (dateStr) => {
   const dateobj = dayjs(dateStr);
@@ -18,9 +18,28 @@ const getDate = (dateStr) => {
   }
 }
 
-const Map = ({ className, snacks = [], ...rest }) => {
-  const [activeSnack, setActiveSnack] = useState(null); // State for modal
+function MapStateManager() {
+  const { setCenter, setZoom } = useMapContext();
+  
+  useMapEvents({
+    moveend: (e) => {
+      const map = e.target;
+      const center = map.getCenter();
+      setCenter([center.lat, center.lng]);
+    },
+    zoomend: (e) => {
+      const map = e.target;
+      setZoom(map.getZoom());
+    }
+  });
+  
+  return null;
+}
 
+const Map = ({ className, snacks = []}) => {
+  const [activeSnack, setActiveSnack] = useState(null);
+  const { center, zoom } = useMapContext(); // Get state from context
+  
   let mapClassName = styles.map;
   if (className) mapClassName = `${mapClassName} ${className}`;
 
@@ -32,15 +51,19 @@ const Map = ({ className, snacks = [], ...rest }) => {
       shadowUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-shadow.png',
     });
   }, []);
-
   return (
     <div className={styles.mapWrapper}>
-      <MapContainer className={mapClassName} {...rest} tap={false}>
+      <MapContainer 
+        className={mapClassName} 
+        center={center}
+        zoom={zoom}
+        tap={false}
+      >
+        <MapStateManager /> 
         <TileLayer
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           attribution="&copy; OpenStreetMap contributors"
         />
-
         <MarkerClusterGroup chunkedLoading>
           {snacks.map((snack) => (
             <Marker 
@@ -56,7 +79,6 @@ const Map = ({ className, snacks = [], ...rest }) => {
             >
               <Popup maxWidth={'auto'}>
                 <div style={{ width: '70dvw', maxWidth:'325px', maxHeight: '60dvh'}}>
-                  {/* Clickable Image */}
                   <img
                     src={snack.image}
                     alt={snack.name}
@@ -73,7 +95,6 @@ const Map = ({ className, snacks = [], ...rest }) => {
         </MarkerClusterGroup>
       </MapContainer>
 
-      {/* Fullscreen Modal Overlay */}
       {activeSnack && (
         <div className={styles.modalOverlay} onClick={() => setActiveSnack(null)}>
           <div className={styles.modalContent}>

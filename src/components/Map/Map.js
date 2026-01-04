@@ -10,16 +10,16 @@ const DynamicMap = dynamic(() => import('./DynamicMap'), {
 const DEFAULT_WIDTH = 600;
 const DEFAULT_HEIGHT = 600;
 
-const Map = (props) => {
+const Map = () => {
   const [hdrSupport, setHdrSupport] = useState(false);
   useEffect(() => {
     setHdrSupport(window.matchMedia('(dynamic-range: high)').matches)
   })
   const snacks = getSnacks(hdrSupport)
-  props= {snacks:snacks,...props}
+  
   return (
     <div style={{ width: '100%' }}>
-      <DynamicMap {...props} />
+      <DynamicMap snacks={snacks} />
     </div>
   )
 }

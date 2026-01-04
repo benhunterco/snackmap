@@ -886,7 +886,7 @@ export const getSnacks = (hdrSupport = false) => [
   },
   {
     "id": "92",
-    "name": "Img 1838",
+    "name": "Raphael.A",
     "date": "Unknown Date",
     "position": [
       -90.0,
