@@ -47,7 +47,6 @@ const Gallery = ({ snacks }) => {
           return (
             <div 
               key={snack.id} 
-              // className={`${styles.card} ${isWide ? styles.cardWide : ''} ${isTall ? styles.cardTall : ''}`}
             >
               <div className={`${styles.card} ${isWide ? styles.cardWide : ''} ${isTall ? styles.cardTall : ''}`}>
                 <img 
