@@ -1567,12 +1567,12 @@ export const getSnacks = (hdrSupport = false) => [
     "image": "./img/snacks/image2.jpg"
   },
   {
-      "name": "Raphael.A",
-      "date": "January 07, 2026",
-      "position": [
-39.0939198, -77.1553677
-      ],
-      "description": null,
-      "image": "./img/snacks/IMG_3218.jpg"
-    }
+    "name": "Raphael.A",
+    "date": "January 07, 2026",
+    "position": [
+      39.0939198, -77.1553677
+    ],
+    "description": null,
+    "image": "./img/snacks/IMG_3218.jpg"
+  }
 ];
