@@ -1574,5 +1574,74 @@ export const getSnacks = (hdrSupport = false) => [
     ],
     "description": null,
     "image": "./img/snacks/IMG_3218.jpg"
-  }
+  },
+    {
+      "name": "Ben.N",
+      "date": "January 31, 2026",
+      "position": [
+        40.58524166666667,
+        -105.07968333333334
+      ],
+      "description": null,
+      "image": "./img/snacks/PXL_20260131_181256445.MP.png"
+    },
+    {
+      "name": "Drew.T",
+      "date": "February 14, 2026",
+      "position": [
+        -90,
+        0
+      ],
+      "description": null,
+      "image": "./img/snacks/IMG_0883.jpg"
+    },
+    {
+      "name": "Elena.H",
+      "date": "February 12, 2026",
+      "position": [
+        40.59084444444445,
+        -105.05817499999999
+      ],
+      "description": null,
+      "image": "./img/snacks/IMG_0517.png"
+    },
+    {
+      "name": "Elena.H",
+      "date": "February 02, 2026",
+      "position": [
+        40.59266388888889,
+        -105.05811944444444
+      ],
+      "description": null,
+      "image": "./img/snacks/IMG_0418.jpg"
+    },
+    {
+      "name": "Drew.T",
+      "date": "February 14, 2026",
+      "position": [
+        -90,
+        0
+      ],
+      "description": null,
+      "image": "./img/snacks/image.jpg"
+    },
+    {
+      "name": "Drew T.",
+      "date": "March 18, 2026",
+      "position": [
+        -90,
+        0
+      ],
+      "description": null,
+      "image": "./img/snacks/signal-2026-03-04-194349.jpg"
+    },
+    {
+      "name": "Jordan.O",
+      "date": "March 18, 2026",
+      "position": [
+        40.98847844578754, 29.030608625598294
+      ],
+      "description": null,
+      "image": "./img/snacks/IMG_9133.jpg"
+    }
 ];

@@ -7,9 +7,6 @@ const DynamicMap = dynamic(() => import('./DynamicMap'), {
   ssr: false
 });
 
-const DEFAULT_WIDTH = 600;
-const DEFAULT_HEIGHT = 600;
-
 const Map = () => {
   const [hdrSupport, setHdrSupport] = useState(false);
   useEffect(() => {
