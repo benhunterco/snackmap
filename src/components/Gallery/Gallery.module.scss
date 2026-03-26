@@ -1,6 +1,6 @@
 .galleryWrapper {
   padding: 0 20px 40px;
-  background-image: url('/snackmap/img/velvet2.avif');
+  background-image: url('/img/velvet2.avif');
   background-size: 100% auto;
 }
 
@@ -26,7 +26,7 @@
   transition: transform 0.2s ease;
   position: relative;
   border: 40px solid transparent;
-  border-image: url('/snackmap/img/frame.png') 310 round;
+  border-image: url('/img/frame.png') 310 round;
   
   &:hover {
     transform: translateY(-5px);
@@ -54,7 +54,7 @@
 .content {
   padding: 20px;
   color: rgb(0, 0, 0);
-  background-image: url('/snackmap/img/badge2.png');
+  background-image: url('/img/badge2.png');
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;

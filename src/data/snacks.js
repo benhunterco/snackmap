@@ -7,7 +7,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.85302886926494, 2.3505903507686647
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/02fb0942-99e0-492d-885b-737d3d1f8efa.jpg"
+    "image": "/img/snacks/02fb0942-99e0-492d-885b-737d3d1f8efa.jpg"
   },
   {
     "id": "2",
@@ -17,7 +17,7 @@ export const getSnacks = (hdrSupport = false) => [
       41.890270283093884, -87.62281699629182
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/0dd0736e-964f-4fde-ada9-336ccb237a35.jpg"
+    "image": "/img/snacks/0dd0736e-964f-4fde-ada9-336ccb237a35.jpg"
   },
   {
     "id": "3",
@@ -27,7 +27,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.85302886926494, 2.3505903507686647
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/2c0a4c01-231d-437e-b1bb-e99ca50fc949.jpg"
+    "image": "/img/snacks/2c0a4c01-231d-437e-b1bb-e99ca50fc949.jpg"
   },
   {
     "id": "4",
@@ -37,7 +37,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.934513314599734, -73.84564623947254
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/2f407cf7-6409-4734-b4c1-2b9b71f3016f.jpg"
+    "image": "/img/snacks/2f407cf7-6409-4734-b4c1-2b9b71f3016f.jpg"
   },
   {
     "id": "5",
@@ -47,7 +47,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.866278, 2.352722
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/333ff485-d448-465a-ad03-1e8110d9653b.jpg"
+    "image": "/img/snacks/333ff485-d448-465a-ad03-1e8110d9653b.jpg"
   },
   {
     "id": "6",
@@ -58,7 +58,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/5d0a4a20-5cbc-4e54-a9fc-5b6fd45f9b4e.jpg"
+    "image": "/img/snacks/5d0a4a20-5cbc-4e54-a9fc-5b6fd45f9b4e.jpg"
   },
   {
     "id": "7",
@@ -69,7 +69,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/5dd80568-87e0-4876-84d5-d7bdf55bd62d.jpg"
+    "image": "/img/snacks/5dd80568-87e0-4876-84d5-d7bdf55bd62d.jpg"
   },
   {
     "id": "8",
@@ -80,7 +80,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/6524e3af-332f-4f43-ba2d-cc29d3954cb9.jpg"
+    "image": "/img/snacks/6524e3af-332f-4f43-ba2d-cc29d3954cb9.jpg"
   },
   {
     "id": "9",
@@ -90,7 +90,7 @@ export const getSnacks = (hdrSupport = false) => [
       52.35962352895455, 4.887239047829073
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/66735a6d-6604-4056-894d-b1cd82d484bd.jpg"
+    "image": "/img/snacks/66735a6d-6604-4056-894d-b1cd82d484bd.jpg"
   },
   {
     "id": "10",
@@ -100,7 +100,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.842444, 2.331972
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/6bc2ae05-0f4f-41c9-8cf8-38a099238d20.jpg"
+    "image": "/img/snacks/6bc2ae05-0f4f-41c9-8cf8-38a099238d20.jpg"
   },
   {
     "id": "11",
@@ -110,7 +110,7 @@ export const getSnacks = (hdrSupport = false) => [
       41.890270283093884, -87.62281699629182
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/79fe04c3-f8d5-42b8-87e4-7a4f9be4ac13.jpg"
+    "image": "/img/snacks/79fe04c3-f8d5-42b8-87e4-7a4f9be4ac13.jpg"
   },
   {
     "id": "12",
@@ -120,7 +120,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.85772578047455, 2.3394336475361563
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/7ad49e0a-e8d5-4060-8b80-f4d9c0e40527.jpg"
+    "image": "/img/snacks/7ad49e0a-e8d5-4060-8b80-f4d9c0e40527.jpg"
   },
   {
     "id": "14",
@@ -131,7 +131,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/7dadb421-51e9-4ac0-8c8d-15d4e34b6625.jpg"
+    "image": "/img/snacks/7dadb421-51e9-4ac0-8c8d-15d4e34b6625.jpg"
   },
   {
     "id": "15",
@@ -142,7 +142,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/81e1762f-0d75-4fe6-9173-ed56ebcc9c68.jpg"
+    "image": "/img/snacks/81e1762f-0d75-4fe6-9173-ed56ebcc9c68.jpg"
   },
   {
     "id": "16",
@@ -152,7 +152,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.842417, 2.331139
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/8936a536-b46b-4cd7-b7e7-91574b5b29db.jpg"
+    "image": "/img/snacks/8936a536-b46b-4cd7-b7e7-91574b5b29db.jpg"
   },
   {
     "id": "17",
@@ -162,7 +162,7 @@ export const getSnacks = (hdrSupport = false) => [
       41.884405823365206, -87.62581326074405
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/8af97581-e73f-46d1-8124-50667288428a.jpg"
+    "image": "/img/snacks/8af97581-e73f-46d1-8124-50667288428a.jpg"
   },
   {
     "id": "19",
@@ -172,7 +172,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.86100662564358, 2.3358452535727268
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/9ef23be9-bc39-4043-9ac2-a94c494e9c86.jpg"
+    "image": "/img/snacks/9ef23be9-bc39-4043-9ac2-a94c494e9c86.jpg"
   },
   {
     "id": "20",
@@ -182,7 +182,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.58766343976597, -105.07806533238521
     ],
     "description": "what is it?",
-    "image": "/snackmap/img/snacks/BenFCPepper.jpg"
+    "image": "/img/snacks/BenFCPepper.jpg"
   },
   {
     "id": "21",
@@ -193,7 +193,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverChicken.jpg"
+    "image": "/img/snacks/DenverChicken.jpg"
   },
   {
     "id": "22",
@@ -204,7 +204,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.98498611111111
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverCookies.jpg"
+    "image": "/img/snacks/DenverCookies.jpg"
   },
   {
     "id": "23",
@@ -215,7 +215,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverCroissant.jpg"
+    "image": "/img/snacks/DenverCroissant.jpg"
   },
   {
     "id": "25",
@@ -226,7 +226,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverDonuts.jpg"
+    "image": "/img/snacks/DenverDonuts.jpg"
   },
   {
     "id": "26",
@@ -237,7 +237,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverJalapeno.jpg"
+    "image": "/img/snacks/DenverJalapeno.jpg"
   },
   {
     "id": "28",
@@ -248,7 +248,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverLettuce.jpg"
+    "image": "/img/snacks/DenverLettuce.jpg"
   },
   {
     "id": "29",
@@ -259,7 +259,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverMango.jpg"
+    "image": "/img/snacks/DenverMango.jpg"
   },
   {
     "id": "31",
@@ -270,7 +270,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverPB.jpg"
+    "image": "/img/snacks/DenverPB.jpg"
   },
   {
     "id": "32",
@@ -281,7 +281,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverPeels.jpg"
+    "image": "/img/snacks/DenverPeels.jpg"
   },
   {
     "id": "33",
@@ -292,7 +292,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverPizza.jpg"
+    "image": "/img/snacks/DenverPizza.jpg"
   },
   {
     "id": "34",
@@ -303,7 +303,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverPringles.jpg"
+    "image": "/img/snacks/DenverPringles.jpg"
   },
   {
     "id": "35",
@@ -314,7 +314,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverShrimp.jpg"
+    "image": "/img/snacks/DenverShrimp.jpg"
   },
   {
     "id": "36",
@@ -325,7 +325,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DenverTwizzlers.jpg"
+    "image": "/img/snacks/DenverTwizzlers.jpg"
   },
   {
     "id": "40",
@@ -335,7 +335,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.9930816, -105.2453813
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DrewBreadCO.jpg"
+    "image": "/img/snacks/DrewBreadCO.jpg"
   },
   {
     "id": "42",
@@ -346,7 +346,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DrewCOpond.jpg"
+    "image": "/img/snacks/DrewCOpond.jpg"
   },
   {
     "id": "43",
@@ -357,7 +357,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/DrewMealCO.jpg"
+    "image": "/img/snacks/DrewMealCO.jpg"
   },
   {
     "id": "44",
@@ -367,7 +367,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.579808787455136, -104.99834058170048
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/ElenaFortCollins_9908.jpg"
+    "image": "/img/snacks/ElenaFortCollins_9908.jpg"
   },
   {
     "id": "45",
@@ -377,7 +377,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.56668468614316, -105.0783998229052
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/ElenaLosComales_9536.jpg"
+    "image": "/img/snacks/ElenaLosComales_9536.jpg"
   },
   {
     "id": "46",
@@ -388,7 +388,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0021.jpg"
+    "image": "/img/snacks/IMG_0021.jpg"
   },
   {
     "id": "47",
@@ -399,7 +399,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.95261388888889
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0051.jpg"
+    "image": "/img/snacks/IMG_0051.jpg"
   },
   {
     "id": "48",
@@ -410,7 +410,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.98735
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0084.jpg"
+    "image": "/img/snacks/IMG_0084.jpg"
   },
   {
     "id": "49",
@@ -421,7 +421,7 @@ export const getSnacks = (hdrSupport = false) => [
       -122.29645555555555
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0117.jpg"
+    "image": "/img/snacks/IMG_0117.jpg"
   },
   {
     "id": "50",
@@ -432,7 +432,7 @@ export const getSnacks = (hdrSupport = false) => [
       -122.30111666666666
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0118.jpg"
+    "image": "/img/snacks/IMG_0118.jpg"
   },
   {
     "id": "51",
@@ -443,7 +443,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.95459722222222
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0151.jpg"
+    "image": "/img/snacks/IMG_0151.jpg"
   },
   {
     "id": "52",
@@ -454,7 +454,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0193.jpg"
+    "image": "/img/snacks/IMG_0193.jpg"
   },
   {
     "id": "53",
@@ -465,7 +465,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.974075
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0206.jpg"
+    "image": "/img/snacks/IMG_0206.jpg"
   },
   {
     "id": "54",
@@ -475,7 +475,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.01858869509452, -105.27814388665604
     ],
     "description": 'where is it actually',
-    "image": "/snackmap/img/snacks/IMG_0275.jpg"
+    "image": "/img/snacks/IMG_0275.jpg"
   },
   {
     "id": "55",
@@ -486,7 +486,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.97876666666667
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0304.jpg"
+    "image": "/img/snacks/IMG_0304.jpg"
   },
   {
     "id": "56",
@@ -497,7 +497,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.02568055555555
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0430.jpg"
+    "image": "/img/snacks/IMG_0430.jpg"
   },
   {
     "id": "57",
@@ -508,7 +508,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.08005555555555
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0438.jpg"
+    "image": "/img/snacks/IMG_0438.jpg"
   },
   {
     "id": "58",
@@ -519,7 +519,7 @@ export const getSnacks = (hdrSupport = false) => [
       -95.97548611111111
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0467.jpg"
+    "image": "/img/snacks/IMG_0467.jpg"
   },
   {
     "id": "59",
@@ -530,7 +530,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.2698361111111
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0469.jpg"
+    "image": "/img/snacks/IMG_0469.jpg"
   },
   {
     "id": "60",
@@ -541,7 +541,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.27471111111112
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0526.jpg"
+    "image": "/img/snacks/IMG_0526.jpg"
   },
   {
     "id": "61",
@@ -552,7 +552,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.27526944444445
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0527.jpg"
+    "image": "/img/snacks/IMG_0527.jpg"
   },
   {
     "id": "62",
@@ -563,7 +563,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.97990555555556
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0612.jpg"
+    "image": "/img/snacks/IMG_0612.jpg"
   },
   {
     "id": "63",
@@ -574,7 +574,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.26783055555555
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0625.jpg"
+    "image": "/img/snacks/IMG_0625.jpg"
   },
   {
     "id": "64",
@@ -585,7 +585,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.26869166666667
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0663.jpg"
+    "image": "/img/snacks/IMG_0663.jpg"
   },
   {
     "id": "65",
@@ -596,7 +596,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.27106388888889
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0779.jpg"
+    "image": "/img/snacks/IMG_0779.jpg"
   },
   {
     "id": "66",
@@ -607,7 +607,7 @@ export const getSnacks = (hdrSupport = false) => [
       5.6948944444444445
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0958.jpg"
+    "image": "/img/snacks/IMG_0958.jpg"
   },
   {
     "id": "67",
@@ -618,7 +618,7 @@ export const getSnacks = (hdrSupport = false) => [
       13.968891666666666
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1022.jpg"
+    "image": "/img/snacks/IMG_1022.jpg"
   },
   {
     "id": "68",
@@ -629,7 +629,7 @@ export const getSnacks = (hdrSupport = false) => [
       14.406783333333333
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1024.jpg"
+    "image": "/img/snacks/IMG_1024.jpg"
   },
   {
     "id": "69",
@@ -640,7 +640,7 @@ export const getSnacks = (hdrSupport = false) => [
       19.069175
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1066.jpg"
+    "image": "/img/snacks/IMG_1066.jpg"
   },
   {
     "id": "70",
@@ -651,7 +651,7 @@ export const getSnacks = (hdrSupport = false) => [
       12.495247222222222
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1067.jpg"
+    "image": "/img/snacks/IMG_1067.jpg"
   },
   {
     "id": "71",
@@ -662,7 +662,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.96984166666667
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1100.jpg"
+    "image": "/img/snacks/IMG_1100.jpg"
   },
   {
     "id": "72",
@@ -673,7 +673,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.99005
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1117.jpg"
+    "image": "/img/snacks/IMG_1117.jpg"
   },
   {
     "id": "73",
@@ -684,7 +684,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.99057777777777
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1118.jpg"
+    "image": "/img/snacks/IMG_1118.jpg"
   },
   {
     "id": "74",
@@ -695,7 +695,7 @@ export const getSnacks = (hdrSupport = false) => [
       -122.46334166666666
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1186.jpg"
+    "image": "/img/snacks/IMG_1186.jpg"
   },
   {
     "id": "75",
@@ -706,7 +706,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.97880555555555
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1195.jpg"
+    "image": "/img/snacks/IMG_1195.jpg"
   },
   {
     "id": "76",
@@ -717,7 +717,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.26854722222222
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1199.jpg"
+    "image": "/img/snacks/IMG_1199.jpg"
   },
   {
     "id": "77",
@@ -728,7 +728,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.0001
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1225.jpg"
+    "image": "/img/snacks/IMG_1225.jpg"
   },
   {
     "id": "78",
@@ -739,7 +739,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.96253888888889
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1256.jpg"
+    "image": "/img/snacks/IMG_1256.jpg"
   },
   {
     "id": "79",
@@ -750,7 +750,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1294.jpg"
+    "image": "/img/snacks/IMG_1294.jpg"
   },
   {
     "id": "80",
@@ -761,7 +761,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1295.jpg"
+    "image": "/img/snacks/IMG_1295.jpg"
   },
   {
     "id": "81",
@@ -772,7 +772,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1296.jpg"
+    "image": "/img/snacks/IMG_1296.jpg"
   },
   {
     "id": "82",
@@ -783,7 +783,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1297.jpg"
+    "image": "/img/snacks/IMG_1297.jpg"
   },
   {
     "id": "83",
@@ -794,7 +794,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1298.jpg"
+    "image": "/img/snacks/IMG_1298.jpg"
   },
   {
     "id": "84",
@@ -805,7 +805,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1299.jpg"
+    "image": "/img/snacks/IMG_1299.jpg"
   },
   {
     "id": "85",
@@ -816,7 +816,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1300.jpg"
+    "image": "/img/snacks/IMG_1300.jpg"
   },
   {
     "id": "86",
@@ -827,7 +827,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1301.jpg"
+    "image": "/img/snacks/IMG_1301.jpg"
   },
   {
     "id": "87",
@@ -838,7 +838,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1302.jpg"
+    "image": "/img/snacks/IMG_1302.jpg"
   },
   {
     "id": "88",
@@ -849,7 +849,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1303.jpg"
+    "image": "/img/snacks/IMG_1303.jpg"
   },
   {
     "id": "89",
@@ -860,7 +860,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1304.jpg"
+    "image": "/img/snacks/IMG_1304.jpg"
   },
   {
     "id": "90",
@@ -871,7 +871,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1305.jpg"
+    "image": "/img/snacks/IMG_1305.jpg"
   },
   {
     "id": "91",
@@ -882,7 +882,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1306.jpg"
+    "image": "/img/snacks/IMG_1306.jpg"
   },
   {
     "id": "92",
@@ -893,7 +893,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_1838.jpg"
+    "image": "/img/snacks/IMG_1838.jpg"
   },
   {
     "id": "93",
@@ -903,7 +903,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.06723199859978, -108.56477574525286
     ],
     "description": "bagel on the rocks",
-    "image": "/snackmap/img/snacks/IMG_4687.jpg"
+    "image": "/img/snacks/IMG_4687.jpg"
   },
   {
     "id": "94",
@@ -913,7 +913,7 @@ export const getSnacks = (hdrSupport = false) => [
       40.611574866079884, -105.07381467596632
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_6428.jpg"
+    "image": "/img/snacks/IMG_6428.jpg"
   },
   {
     "id": "95",
@@ -924,7 +924,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_7959.jpg"
+    "image": "/img/snacks/IMG_7959.jpg"
   },
   {
     "id": "96",
@@ -935,7 +935,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_8008.jpg"
+    "image": "/img/snacks/IMG_8008.jpg"
   },
   {
     "id": "97",
@@ -946,7 +946,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_8074.jpg"
+    "image": "/img/snacks/IMG_8074.jpg"
   },
   {
     "id": "98",
@@ -957,7 +957,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_8107.jpg"
+    "image": "/img/snacks/IMG_8107.jpg"
   },
   {
     "id": "99",
@@ -967,7 +967,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.86252107322317, 2.346001336561144
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_8119.jpg"
+    "image": "/img/snacks/IMG_8119.jpg"
   },
   {
     "id": "100",
@@ -977,7 +977,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.876083, 2.294667
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_8122.jpg"
+    "image": "/img/snacks/IMG_8122.jpg"
   },
   {
     "id": "101",
@@ -988,7 +988,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_8452.jpg"
+    "image": "/img/snacks/IMG_8452.jpg"
   },
   {
     "id": "102",
@@ -999,7 +999,7 @@ export const getSnacks = (hdrSupport = false) => [
       2.2931916666666665
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_8565.jpg"
+    "image": "/img/snacks/IMG_8565.jpg"
   },
   {
     "id": "103",
@@ -1010,7 +1010,7 @@ export const getSnacks = (hdrSupport = false) => [
       2.335288888888889
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_8616.jpg"
+    "image": "/img/snacks/IMG_8616.jpg"
   },
   {
     "id": "104",
@@ -1021,7 +1021,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.95765
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_8893.jpg"
+    "image": "/img/snacks/IMG_8893.jpg"
   },
   {
     "id": "105",
@@ -1032,7 +1032,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.9804
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_8903.jpg"
+    "image": "/img/snacks/IMG_8903.jpg"
   },
   {
     "id": "106",
@@ -1043,7 +1043,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.95775555555556
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9103.jpg"
+    "image": "/img/snacks/IMG_9103.jpg"
   },
   {
     "id": "107",
@@ -1054,7 +1054,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.956925
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9112.jpg"
+    "image": "/img/snacks/IMG_9112.jpg"
   },
   {
     "id": "108",
@@ -1065,7 +1065,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.23386388888889
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9212.jpg"
+    "image": "/img/snacks/IMG_9212.jpg"
   },
   {
     "id": "109",
@@ -1076,7 +1076,7 @@ export const getSnacks = (hdrSupport = false) => [
       -77.03934444444444
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9395.jpg"
+    "image": "/img/snacks/IMG_9395.jpg"
   },
   {
     "id": "110",
@@ -1087,7 +1087,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.97284722222223
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9625.jpg"
+    "image": "/img/snacks/IMG_9625.jpg"
   },
   {
     "id": "111",
@@ -1098,7 +1098,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.98154444444445
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9745.jpg"
+    "image": "/img/snacks/IMG_9745.jpg"
   },
   {
     "id": "112",
@@ -1109,7 +1109,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.98824444444445
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9746.jpg"
+    "image": "/img/snacks/IMG_9746.jpg"
   },
   {
     "id": "113",
@@ -1120,7 +1120,7 @@ export const getSnacks = (hdrSupport = false) => [
       -105.27517777777777
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9758.jpg"
+    "image": "/img/snacks/IMG_9758.jpg"
   },
   {
     "id": "114",
@@ -1131,7 +1131,7 @@ export const getSnacks = (hdrSupport = false) => [
       -73.96309722222223
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9790.jpg"
+    "image": "/img/snacks/IMG_9790.jpg"
   },
   {
     "id": "115",
@@ -1142,7 +1142,7 @@ export const getSnacks = (hdrSupport = false) => [
       -73.98908888888889
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9809.jpg"
+    "image": "/img/snacks/IMG_9809.jpg"
   },
   {
     "id": "116",
@@ -1153,7 +1153,7 @@ export const getSnacks = (hdrSupport = false) => [
       -75.16669444444445
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9814.jpg"
+    "image": "/img/snacks/IMG_9814.jpg"
   },
   {
     "id": "117",
@@ -1164,7 +1164,7 @@ export const getSnacks = (hdrSupport = false) => [
       -75.1614
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9815.jpg"
+    "image": "/img/snacks/IMG_9815.jpg"
   },
   {
     "id": "118",
@@ -1175,7 +1175,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.96054166666667
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9877.jpg"
+    "image": "/img/snacks/IMG_9877.jpg"
   },
   {
     "id": "119",
@@ -1186,7 +1186,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.98619722222222
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_9923.jpg"
+    "image": "/img/snacks/IMG_9923.jpg"
   },
   {
     "id": "120",
@@ -1196,7 +1196,7 @@ export const getSnacks = (hdrSupport = false) => [
       44.991824, -93.186824
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/NadiaMinneapolis_195914.jpg"
+    "image": "/img/snacks/NadiaMinneapolis_195914.jpg"
   },
   {
     "id": "122",
@@ -1207,7 +1207,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/RaphDenverBagel.jpg"
+    "image": "/img/snacks/RaphDenverBagel.jpg"
   },
   {
     "id": "123",
@@ -1218,7 +1218,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/RaphDenverBanana.jpg"
+    "image": "/img/snacks/RaphDenverBanana.jpg"
   },
   {
     "id": "124",
@@ -1229,7 +1229,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/RaphParisBread.jpg"
+    "image": "/img/snacks/RaphParisBread.jpg"
   },
   {
     "id": "126",
@@ -1239,7 +1239,7 @@ export const getSnacks = (hdrSupport = false) => [
       48.874583, 2.295306
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/RaphParisPringle.jpg"
+    "image": "/img/snacks/RaphParisPringle.jpg"
   },
   {
     "id": "127",
@@ -1250,7 +1250,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/RaphParisYogurt.jpg"
+    "image": "/img/snacks/RaphParisYogurt.jpg"
   },
   {
     "id": "129",
@@ -1261,7 +1261,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/SherryParisBoule.jpg"
+    "image": "/img/snacks/SherryParisBoule.jpg"
   },
   {
     "id": "130",
@@ -1272,7 +1272,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/bab273ca-2edb-4854-a853-fa7226fbcc7e.jpg"
+    "image": "/img/snacks/bab273ca-2edb-4854-a853-fa7226fbcc7e.jpg"
   },
   {
     "id": "131",
@@ -1283,7 +1283,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/bc3c8cc8-c8bf-49a5-b7bb-b3b9b7310216.jpg"
+    "image": "/img/snacks/bc3c8cc8-c8bf-49a5-b7bb-b3b9b7310216.jpg"
   },
   {
     "id": "132",
@@ -1294,7 +1294,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/bd984045-8de1-401f-976a-2e412fe37416.jpg"
+    "image": "/img/snacks/bd984045-8de1-401f-976a-2e412fe37416.jpg"
   },
   {
     "id": "133",
@@ -1305,7 +1305,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/bea58983-f311-47d3-9a6c-9e453d0b954e.jpg"
+    "image": "/img/snacks/bea58983-f311-47d3-9a6c-9e453d0b954e.jpg"
   },
   {
     "id": "134",
@@ -1315,7 +1315,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.59481116304378, -104.95973686313138
     ],
     "description": "Fuel up.",
-    "image": "/snackmap/img/snacks/benCentennial.jpg"
+    "image": "/img/snacks/benCentennial.jpg"
   },
   {
     "id": "136",
@@ -1326,7 +1326,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/bfbb0d33-ec81-4563-9246-eb1646c7e577.jpg"
+    "image": "/img/snacks/bfbb0d33-ec81-4563-9246-eb1646c7e577.jpg"
   },
   {
     "id": "137",
@@ -1337,7 +1337,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/cdc82b46-89e0-46e3-be46-b04d741c4096.jpg"
+    "image": "/img/snacks/cdc82b46-89e0-46e3-be46-b04d741c4096.jpg"
   },
   {
     "id": "138",
@@ -1348,7 +1348,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/ddee3173-5c74-4499-9985-e8dd3375fa9c.jpg"
+    "image": "/img/snacks/ddee3173-5c74-4499-9985-e8dd3375fa9c.jpg"
   },
   {
     "id": "139",
@@ -1359,7 +1359,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/f1b641c5-5bd2-429b-ba60-0af2e1701c15.jpg"
+    "image": "/img/snacks/f1b641c5-5bd2-429b-ba60-0af2e1701c15.jpg"
   },
   {
     "id": "140",
@@ -1370,7 +1370,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/f63bade2-e3ed-47d8-b050-d32ae920a6ef.jpg"
+    "image": "/img/snacks/f63bade2-e3ed-47d8-b050-d32ae920a6ef.jpg"
   },
   {
     "id": "141",
@@ -1381,7 +1381,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/raphbridge.jpg"
+    "image": "/img/snacks/raphbridge.jpg"
   },
   {
     "id": "142",
@@ -1392,7 +1392,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/raphchicagopeanuts.jpg"
+    "image": "/img/snacks/raphchicagopeanuts.jpg"
   },
   {
     "id": "143",
@@ -1403,7 +1403,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/raphchicagopidge.jpg"
+    "image": "/img/snacks/raphchicagopidge.jpg"
   },
   {
     "id": "145",
@@ -1414,7 +1414,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/raphsomewhere.jpg"
+    "image": "/img/snacks/raphsomewhere.jpg"
   },
   {
     "id": "146",
@@ -1425,7 +1425,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/raphtide.jpg"
+    "image": "/img/snacks/raphtide.jpg"
   },
   {
     "id": "147",
@@ -1436,7 +1436,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/raphtread.jpg"
+    "image": "/img/snacks/raphtread.jpg"
   },
   {
     "id": "148",
@@ -1447,7 +1447,7 @@ export const getSnacks = (hdrSupport = false) => [
       0.0
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/raphza.jpg"
+    "image": "/img/snacks/raphza.jpg"
   },
   {
     "id": "149",
@@ -1458,7 +1458,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.98344444444444
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0069.jpg"
+    "image": "/img/snacks/IMG_0069.jpg"
   },
   {
     "id": "42",
@@ -1469,7 +1469,7 @@ export const getSnacks = (hdrSupport = false) => [
       -104.98469444444444
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_0071.jpg"
+    "image": "/img/snacks/IMG_0071.jpg"
   },
   {
     "id": "150",
@@ -1479,7 +1479,7 @@ export const getSnacks = (hdrSupport = false) => [
       43.860071, 18.432041
     ],
     'description': null,
-    "image": "/snackmap/img/snacks/20240706_085517.jpg"
+    "image": "/img/snacks/20240706_085517.jpg"
   },
   {
     "id": "151",
@@ -1489,7 +1489,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.767974, -105.046734
     ],
     'description': null,
-    "image": "/snackmap/img/snacks/20251115_135112.jpg"
+    "image": "/img/snacks/20251115_135112.jpg"
   },
   {
     "id": "152",
@@ -1499,7 +1499,7 @@ export const getSnacks = (hdrSupport = false) => [
       45.057042, -92.804252
     ],
     'description': null,
-    "image": "/snackmap/img/snacks/20251012_151225.jpg"
+    "image": "/img/snacks/20251012_151225.jpg"
   },
   {
     "id": "153",
@@ -1509,7 +1509,7 @@ export const getSnacks = (hdrSupport = false) => [
       38.92618, -104.79492
     ],
     'description': null,
-    "image": "/snackmap/img/snacks/IMG_0760.jpg"
+    "image": "/img/snacks/IMG_0760.jpg"
   },
   {
     "id": "154",
@@ -1528,7 +1528,7 @@ export const getSnacks = (hdrSupport = false) => [
       44.8738827, -93.2238506
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_7570.jpg"
+    "image": "/img/snacks/IMG_7570.jpg"
   },
   {
     "name": "Drew.T",
@@ -1537,7 +1537,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.76978, -105.06223
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/image4.jpg"
+    "image": "/img/snacks/image4.jpg"
   },
   {
     "name": "Drew.T",
@@ -1546,7 +1546,7 @@ export const getSnacks = (hdrSupport = false) => [
       28.22512, -82.64919
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/image1.jpg"
+    "image": "/img/snacks/image1.jpg"
   },
   {
     "name": "Drew.T",
@@ -1555,7 +1555,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.76775, -105.04738
     ],
     "description": 'The body of Christ',
-    "image": "/snackmap/img/snacks/image0.jpg"
+    "image": "/img/snacks/image0.jpg"
   },
   {
     "name": "Drew.T",
@@ -1564,7 +1564,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.76978, -105.06223
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/image2.jpg"
+    "image": "/img/snacks/image2.jpg"
   },
   {
     "name": "Raphael.A",
@@ -1573,7 +1573,7 @@ export const getSnacks = (hdrSupport = false) => [
       39.0939198, -77.1553677
     ],
     "description": null,
-    "image": "/snackmap/img/snacks/IMG_3218.jpg"
+    "image": "/img/snacks/IMG_3218.jpg"
   },
     {
       "name": "Ben.N",
@@ -1583,7 +1583,7 @@ export const getSnacks = (hdrSupport = false) => [
         -105.07968333333334
       ],
       "description": null,
-      "image": "/snackmap/img/snacks/PXL_20260131_181256445.MP.png"
+      "image": "/img/snacks/PXL_20260131_181256445.MP.png"
     },
     {
       "name": "Drew.T",
@@ -1593,7 +1593,7 @@ export const getSnacks = (hdrSupport = false) => [
         0
       ],
       "description": null,
-      "image": "/snackmap/img/snacks/IMG_0883.jpg"
+      "image": "/img/snacks/IMG_0883.jpg"
     },
     {
       "name": "Elena.H",
@@ -1603,7 +1603,7 @@ export const getSnacks = (hdrSupport = false) => [
         -105.05817499999999
       ],
       "description": null,
-      "image": "/snackmap/img/snacks/IMG_0517.png"
+      "image": "/img/snacks/IMG_0517.png"
     },
     {
       "name": "Elena.H",
@@ -1613,7 +1613,7 @@ export const getSnacks = (hdrSupport = false) => [
         -105.05811944444444
       ],
       "description": null,
-      "image": "/snackmap/img/snacks/IMG_0418.jpg"
+      "image": "/img/snacks/IMG_0418.jpg"
     },
     {
       "name": "Drew.T",
@@ -1623,7 +1623,7 @@ export const getSnacks = (hdrSupport = false) => [
         0
       ],
       "description": null,
-      "image": "/snackmap/img/snacks/image.jpg"
+      "image": "/img/snacks/image.jpg"
     },
     {
       "name": "Drew T.",
@@ -1633,7 +1633,7 @@ export const getSnacks = (hdrSupport = false) => [
         0
       ],
       "description": null,
-      "image": "/snackmap/img/snacks/signal-2026-03-04-194349.jpg"
+      "image": "/img/snacks/signal-2026-03-04-194349.jpg"
     },
     {
       "name": "Jordan.O",
@@ -1642,6 +1642,6 @@ export const getSnacks = (hdrSupport = false) => [
         40.98847844578754, 29.030608625598294
       ],
       "description": null,
-      "image": "/snackmap/img/snacks/IMG_9133.jpg"
+      "image": "/img/snacks/IMG_9133.jpg"
     }
 ];
