@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///Users/ben/code/snackmap/src/context/MapContext.js"],"sourcesContent":["import { createContext, useContext, useState } from 'react';\n\nconst MapContext = createContext();\n\nexport function MapProvider({ children }) {\n  const [center, setCenter] = useState([40, -90]);\n  const [zoom, setZoom] = useState(2);\n  \n  return (\n    <MapContext.Provider value={{ center, zoom, setCenter, setZoom }}>\n      {children}\n    </MapContext.Provider>\n  );\n}\n\nexport const useMapContext = () => useContext(MapContext);"],"names":[],"mappings":";;;;;;;AAAA;;;AAEA,MAAM,2BAAa,IAAA,oHAAa;AAEzB,SAAS,YAAY,EAAE,QAAQ,EAAE;IACtC,MAAM,CAAC,QAAQ,UAAU,GAAG,IAAA,+GAAQ,EAAC;QAAC;QAAI,CAAC;KAAG;IAC9C,MAAM,CAAC,MAAM,QAAQ,GAAG,IAAA,+GAAQ,EAAC;IAEjC,qBACE,qKAAC,WAAW,QAAQ;QAAC,OAAO;YAAE;YAAQ;YAAM;YAAW;QAAQ;kBAC5D;;;;;;AAGP;AAEO,MAAM,gBAAgB,IAAM,IAAA,iHAAU,EAAC"}},
-    {"offset": {"line": 52, "column": 0}, "map": {"version":3,"sources":["file:///Users/ben/code/snackmap/src/pages/_app.js"],"sourcesContent":["import '@styles/globals.scss'\nimport '@context/MapContext'\nimport { MapProvider } from '@context/MapContext'\n\nfunction MyApp({ Component, pageProps }) {\n  return <MapProvider>\n    <Component {...pageProps} />\n  </MapProvider>\n}\n\nexport default MyApp\n"],"names":[],"mappings":";;;;;AACA;;;;;AAGA,SAAS,MAAM,EAAE,SAAS,EAAE,SAAS,EAAE;IACrC,qBAAO,qKAAC,oIAAW;kBACjB,cAAA,qKAAC;YAAW,GAAG,SAAS;;;;;;;;;;;AAE5B;uCAEe"}}]
-}

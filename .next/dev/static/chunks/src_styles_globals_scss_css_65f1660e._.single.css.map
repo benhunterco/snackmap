@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/src/styles/globals.scss"],"sourcesContent":["@import \"react-leaflet-cluster/dist/assets/MarkerCluster.css\";\n@import \"react-leaflet-cluster/dist/assets/MarkerCluster.Default.css\";\n\n\n@font-face {\n  font-family: 'OldLondon';\n  src: url('../../public/fonts/OldLondon.ttf') format('truetype');\n  font-weight: normal;\n  font-style: normal;\n}\n\nhtml,\nbody {\n  padding: 0;\n  margin: 0;\n  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,\n    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;\n}\n\na {\n  color: inherit;\n  text-decoration: none;\n}\n\n* {\n  box-sizing: border-box;\n}\n\nimg {\n  max-width: 100%;\n  height: auto;\n}"],"names":[],"mappings":"AAIA;;;;;;;AAOA;;;;;;AAQA;;;;;AAKA;;;;AAIA"}}]
-}

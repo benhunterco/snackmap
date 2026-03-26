@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/src/components/Container/Container.module.scss"],"sourcesContent":[".container {\n  flex: 1;        // Fill the .mapSection height\n  display: flex;\n  max-width: none; // Ensure it's full width\n  padding: 0;      // Remove any gutter padding\n  width: 100%;\n\n  @media (max-width: 720px) {\n    padding: 0;\n  }\n\n  h2,\n  h3,\n  h4,\n  p,\n  ul {\n    &:first-child {\n      margin-top: 0;\n    }\n\n    &:last-child {\n      margin-bottom: 0;\n    }\n  }\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;AAOE;EAPF;;;;;AAgBI;;;;AAIA"}}]
-}

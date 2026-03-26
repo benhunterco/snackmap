@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/src/components/Header/Header.module.scss"],"sourcesContent":["@import \"@styles/settings/_settings\";\n\n.header {\n  width: 100%;\n  font-size: 1em;\n  color: white;\n  background-image: url('../../../public/img/concrete.png');\n\n  padding: 1em 0;\n  margin: 0;\n}\n\n.headerContainer {\n\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  width: 100%;\n\n}\n\n.headerTitle {\n  font-size: 2em;\n  letter-spacing: .1em;\n  font-weight: bold;\n  color:black;\n  font-family: 'OldLondon', serif;\n  margin-left: 0;\n  @media (min-width: 630px) {\n    margin: 3em;\n  }\n}\n\n.headerLogo {\n  height: 1.6em;\n}\n\n.headerLinks {\n  // display: flex;\n  font-size: .7em;\n  letter-spacing: .05em;\n  list-style: none;\n  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n  padding: 0;\n  color:white;\n\n  a {\n    display: inline-flex;\n    align-items: left;\n    justify-content: left;\n    margin-left:0.8em;\n\n  }\n}\n"],"names":[],"mappings":"AAEA;;;;;;;;;AAUA;;;;;;;AASA;;;;;;;;;AAOE;EAPF;;;;;AAYA;;;;AAIA;;;;;;;;;AASE"}}]
-}
