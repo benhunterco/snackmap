@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/src/components/Layout/Layout.module.scss"],"sourcesContent":[".layout {\n  display: grid;\n  grid-template-rows: auto 1fr auto;\n  overflow: hidden;\n  height: 100dvh;\n}\n\n.main {\n  /* Remove padding so the map can touch the footer and sides */\n  padding: 0; \n  display: flex;\n  flex-direction: column;\n  overflow-y: auto;\n  -webkit-overflow-scrolling: touch;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;AAOA"}}]
+}

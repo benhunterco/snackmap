@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/src/components/Button/Button.module.scss","turbopack:///turbopack:///[project]/src/styles/settings/__colors.scss"],"sourcesContent":["@import \"@styles/settings/_settings\";\n\n.button {\n  display: inline-flex;\n  justify-content: center;\n  align-items: center;\n  color: white;\n  font-size: 1em;\n  font-weight: bold;\n  font-family: inherit;\n  text-transform: uppercase;\n  text-align: center;\n  text-decoration: none;\n  background-color: $color-green;\n  padding: 1em 1.4em;\n  border: 0;\n  border-radius: .2em;\n  cursor: pointer;\n\n  &:hover {\n    background-color: lighten($color-green, 10);\n  }\n\n  &:disabled {\n    color: rgba(white, 0.5);\n    background-color: lighten($color-green, 10);\n    cursor: default;\n    opacity: .6;\n  }\n}","$color-green: #5fbb9d;"],"names":[],"mappings":"AAEA;;;;;;;;;;;;;;;;;;AAiBE;;;;AAIA"}}]
+}

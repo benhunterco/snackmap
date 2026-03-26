@@ -1,0 +1,17 @@
+/* [project]/src/components/Section/Section.module.scss.module.css [client] (css) */
+.Section-module-scss-module__PVCzVq__section {
+  flex-direction: column;
+  flex: 1;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+@media (min-width: 720px) {
+  .Section-module-scss-module__PVCzVq__section {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/*# sourceMappingURL=src_components_Section_Section_module_scss_module_css_65f1660e._.single.css.map*/

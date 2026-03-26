@@ -1,0 +1,102 @@
+/* [project]/src/components/Map/Map.module.scss.module.css [client] (css) */
+.Map-module-scss-module__KetCVG__map {
+  width: 100%;
+  height: 100%;
+}
+
+.Map-module-scss-module__KetCVG__customPin {
+  background: #ff5a5f;
+  border: 2px solid #fff;
+  border-radius: 50% 50% 50% 0;
+  justify-content: center;
+  align-items: center;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  transform: rotate(-45deg);
+  box-shadow: 0 2px 5px #0000004d;
+}
+
+.Map-module-scss-module__KetCVG__customPin img {
+  object-fit: cover;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  transform: rotate(45deg);
+}
+
+.Map-module-scss-module__KetCVG__mapWrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.Map-module-scss-module__KetCVG__popupImage {
+  cursor: zoom-in;
+  border-radius: 4px;
+  width: 100%;
+  transition: opacity .2s;
+}
+
+.Map-module-scss-module__KetCVG__popupImage:hover {
+  opacity: .9;
+}
+
+.Map-module-scss-module__KetCVG__modalOverlay {
+  z-index: 9999;
+  cursor: zoom-out;
+  background: #000000d9;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100dvh;
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.Map-module-scss-module__KetCVG__modalContent {
+  flex-direction: column;
+  align-items: center;
+  max-width: 90%;
+  max-height: 90%;
+  display: flex;
+  position: relative;
+}
+
+.Map-module-scss-module__KetCVG__modalContent img {
+  object-fit: contain;
+  border-radius: 8px;
+  max-width: 100%;
+  max-height: 80dvh;
+  box-shadow: 0 10px 30px #00000080;
+}
+
+.Map-module-scss-module__KetCVG__modalCaption {
+  color: #fff;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.Map-module-scss-module__KetCVG__modalCaption h2 {
+  margin: 0;
+}
+
+.Map-module-scss-module__KetCVG__modalCaption p {
+  opacity: .8;
+}
+
+.Map-module-scss-module__KetCVG__closeButton {
+  color: #fff;
+  cursor: pointer;
+  background: none;
+  border: none;
+  font-size: 35px;
+  position: absolute;
+  top: -40px;
+  right: 0;
+}
+
+/*# sourceMappingURL=src_components_Map_Map_module_scss_module_css_65f1660e._.single.css.map*/

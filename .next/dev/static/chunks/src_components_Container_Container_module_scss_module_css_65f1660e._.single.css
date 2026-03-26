@@ -1,0 +1,24 @@
+/* [project]/src/components/Container/Container.module.scss.module.css [client] (css) */
+.Container-module-scss-module__JlzzPW__container {
+  flex: 1;
+  width: 100%;
+  max-width: none;
+  padding: 0;
+  display: flex;
+}
+
+@media (max-width: 720px) {
+  .Container-module-scss-module__JlzzPW__container {
+    padding: 0;
+  }
+}
+
+.Container-module-scss-module__JlzzPW__container h2:first-child, .Container-module-scss-module__JlzzPW__container h3:first-child, .Container-module-scss-module__JlzzPW__container h4:first-child, .Container-module-scss-module__JlzzPW__container p:first-child, .Container-module-scss-module__JlzzPW__container ul:first-child {
+  margin-top: 0;
+}
+
+.Container-module-scss-module__JlzzPW__container h2:last-child, .Container-module-scss-module__JlzzPW__container h3:last-child, .Container-module-scss-module__JlzzPW__container h4:last-child, .Container-module-scss-module__JlzzPW__container p:last-child, .Container-module-scss-module__JlzzPW__container ul:last-child {
+  margin-bottom: 0;
+}
+
+/*# sourceMappingURL=src_components_Container_Container_module_scss_module_css_65f1660e._.single.css.map*/

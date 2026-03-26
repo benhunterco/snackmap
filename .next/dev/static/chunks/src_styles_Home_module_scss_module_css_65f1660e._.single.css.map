@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/src/styles/Home.module.scss"],"sourcesContent":[".title {\n  font-size: 3rem;\n  line-height: 1.15;\n  text-align: center;\n  margin: 0 0 1em;\n}\n\n.description {\n  font-size: 1.5rem;\n  line-height: 1.5;\n  text-align: center;\n}\n\n.view {\n  text-align: center;\n  margin-top: 3em;\n}\n\n.code {\n  background: #fafafa;\n  border-radius: 5px;\n  padding: 0.75rem;\n  font-size: 1.1rem;\n  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,\n    Bitstream Vera Sans Mono, Courier New, monospace;\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;;AAOA;;;;;;AAMA;;;;;AAKA"}}]
+}

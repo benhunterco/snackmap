@@ -1,0 +1,53 @@
+/* [project]/src/components/Header/Header.module.scss.module.css [client] (css) */
+.Header-module-scss-module__wS1-Va__header {
+  color: #fff;
+  background-image: url("../media/concrete.4910a1dd.png");
+  width: 100%;
+  margin: 0;
+  padding: 1em 0;
+  font-size: 1em;
+}
+
+.Header-module-scss-module__wS1-Va__headerContainer {
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  display: flex;
+}
+
+.Header-module-scss-module__wS1-Va__headerTitle {
+  letter-spacing: .1em;
+  color: #000;
+  margin-left: 0;
+  font-family: OldLondon, serif;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+@media (min-width: 630px) {
+  .Header-module-scss-module__wS1-Va__headerTitle {
+    margin: 3em;
+  }
+}
+
+.Header-module-scss-module__wS1-Va__headerLogo {
+  height: 1.6em;
+}
+
+.Header-module-scss-module__wS1-Va__headerLinks {
+  letter-spacing: .05em;
+  color: #fff;
+  padding: 0;
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+  font-size: .7em;
+  list-style: none;
+}
+
+.Header-module-scss-module__wS1-Va__headerLinks a {
+  align-items: left;
+  justify-content: left;
+  margin-left: .8em;
+  display: inline-flex;
+}
+
+/*# sourceMappingURL=src_components_Header_Header_module_scss_module_css_65f1660e._.single.css.map*/

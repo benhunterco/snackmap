@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/src/components/Section/Section.module.scss"],"sourcesContent":[".section {\n  padding: 0;\n  margin: 0;\n  flex: 1;        // Fill the .main height\n  display: flex;\n  flex-direction: column;\n\n  @media (min-width: 720px) {\n    padding: 0;\n    margin: 0;\n  }\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;AAOE;EAPF"}}]
+}
